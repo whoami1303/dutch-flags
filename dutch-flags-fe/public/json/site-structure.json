@@ -1,0 +1,12 @@
+{
+  "navigation": [
+    {
+      "href": "/",
+      "title": "Home"
+    },
+    {
+      "href": "/municipalities",
+      "title": "Municipalities"
+    }
+  ]
+}
