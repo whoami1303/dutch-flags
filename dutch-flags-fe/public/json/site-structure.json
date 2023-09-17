@@ -8,5 +8,6 @@
       "href": "/municipalities",
       "title": "Municipalities"
     }
-  ]
+  ],
+  "filter": ["Countries", "Provinces", "Public bodies", "Municipalities"]
 }

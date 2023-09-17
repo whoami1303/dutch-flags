@@ -1,170 +1,43 @@
 {
-  "header": {
-    "title": "Dutch Flags",
-    "subtitle": "[dot] Design",
-    "flagPath": "/flags/netherlands.svg"
-  },
-  "countries": [
+  "flags": [
     {
       "title": "Netherlands",
       "flagPath": "/flags/netherlands.png",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
+
+      "flagDescription": "A horizontal tricolor of red, white and blue.",
+      "flagAdoption": "1813",
+      "coatOfArms": "/flags/coat_of_arms/netherlands.png",
+      "colors": {
+        "primary": [
+          { "value": "#AD1D25", "name": "Bright vermilion" },
+          { "value": "#FFFFFF", "name": "White" },
+          { "value": "#1E4785", "name": "Cobalt blue" }
+        ],
+        "secondary": []
+      },
+      "colorSymbolism": [
+        "The red band symbolizes bravery, strength, valor, and hardiness.",
+        "The white band symbolizes, peace and honesty.",
+        "The blue band represents vigilance, truth, loyalty, perseverance, and justice."
+      ],
+      "link": "netherlands",
+      "category": "country"
     },
-    {
-      "title": "Aruba",
-      "flagPath": "/flags/netherlands.png",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "provinces": [
-    {
-      "title": "Drenthe",
-      "flagPath": "/flags/netherlands.png",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "historical_provinces": [
-    {
-      "title": "South Holland",
-      "flagPath": "/flags/netherlands.png",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "public_bodies": [
-    {
-      "title": "South Holland",
-      "flagPath": "/flags/netherlands.png",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "municipalities": [
     {
       "title": "Aa en Hunze",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#fbdc0c", "rgb": "rgb(251,220,12)", "primary": true },
-        { "value": "#96b91a", "rgb": "rgb(150,185,26)", "primary": true }
-      ],
-      "flagPath": "/flags/municipalities/aa_en_hunze.png"
-    },
-    {
-      "title": "Assen",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#244c8c", "rgb": "rgb(36,76,140)", "primary": true },
-        { "value": "#284c8c", "rgb": "rgb(40,76,140)", "primary": true }
-      ],
-      "flagPath": "/flags/municipalities/assen.png",
-      "historicalFlagPaths": ["/flags/municipalities/assen_alternate_1.png"]
-    },
-    {
-      "title": "Borger Odoon",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#fcfc04", "rgb": "rgb(252,252,4)", "primary": true },
-        { "value": "#9d9805", "rgb": "rgb(157,152,5)", "primary": true },
-        { "value": "#040404", "rgb": "rgb(4,4,4)", "primary": true }
-      ],
-      "flagPath": "/flags/municipalities/borger_odoorn.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "Coevorden",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#d40404", "rgb": "rgb(212,4,4)", "primary": "true" },
-        { "value": "#4c5f3b", "rgb": "rgb(76,95,59)", "primary": "true" },
-        { "value": "#0463bb", "rgb": "rgb(4,99,187)", "primary": "true" },
-        { "value": "#526c48", "rgb": "rgb(82,108,72)", "primary": "true" }
-      ],
-      "flagPath": "/flags/municipalities/coevorden.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "De Wolden",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#fccc04", "rgb": "rgb(252,204,4)", "primary": "true" },
-        { "value": "#8c8c8c", "rgb": "rgb(140,140,140)", "primary": "true" },
-        { "value": "#049c3c", "rgb": "rgb(4,156,60)", "primary": "true" },
-        { "value": "#040404", "rgb": "rgb(4,4,4)", "primary": "true" }
-      ],
-      "flagPath": "/flags/municipalities/de_wolden.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "Emmen",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#b4a227", "rgb": "rgb(180,162,39)", "primary": "true" },
-        { "value": "#525354", "rgb": "rgb(82,83,84)", "primary": "true" },
-        { "value": "#048304", "rgb": "rgb(4,131,4)", "primary": "true" },
-        { "value": "#040504", "rgb": "rgb(4,5,4)", "primary": "true" }
-      ],
-      "flagPath": "/flags/municipalities/emmen.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "Hoogeveen",
-      "region": "Drenthe",
-      "colors": [
-        { "value": "#2c2c7c", "rgb": "rgb(44,44,124)", "primary": "true" },
-        { "value": "#302c7c", "rgb": "rgb(48,44,124)", "primary": "true" }
-      ],
-      "flagPath": "/flags/municipalities/hoogeveen.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "Amsterdam",
-      "region": "North Holland",
-      "colors": [
-        { "value": "#dc0c14", "rgb": "rgb(220,12,20)", "primary": true },
-        { "value": "#a4480c", "rgb": "rgb(164,72,12)", "primary": true },
-        { "value": "#040404", "rgb": "rgb(4,4,4)", "primary": true }
-      ],
-      "flagPath": "/flags/municipalities/amsterdam.png",
-      "historicalFlagPaths": []
-    },
-    {
-      "title": "Eindhoven",
-      "region": "Noord-brabant",
-      "colors": [
-        { "value": "#dc141c", "rgb": "rgb(220,20,28)", "primary": true },
-        { "value": "#948c8c", "rgb": "rgb(148,140,140)", "primary": true },
-        { "value": "#5e282b", "rgb": "rgb(94,40,43)", "primary": true },
-        { "value": "#6f6c6c", "rgb": "rgb(111,108,108)", "primary": true },
-        { "value": "#e28484", "rgb": "rgb(226,132,132)", "primary": true }
-      ],
-      "flagPath": "/flags/municipalities/eindhoven.png",
-      "historicalFlagPaths": ["/flags/municipalities/eindhoven_alternate_1.png"]
-    }
-  ],
-  "region_with_no_administrative_status": [
-    {
-      "title": "Eindhoven",
-      "region": "Noord-brabant",
-      "colors": [{ "value": "#fff", "rgb": "gray", "primary": true }]
-    }
-  ],
-  "royal": [
-    {
-      "title": "Eindhoven",
-      "region": "Noord-brabant",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "governmental": [
-    {
-      "title": "Eindhoven",
-      "region": "Noord-brabant",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
-    }
-  ],
-  "military_and_naval": [
-    {
-      "title": "Eindhoven",
-      "region": "Noord-brabant",
-      "colors": [{ "value": "#fff", "name": "gray", "primary": true }]
+      "flagPath": "/flags/municipalities/aa_en_hunze.png",
+      "flagDescription": "Green, with an all-crossing yellow Andrew's cross, coming from the flag corners; on the hoist side a yellow three-petaled lily crown.",
+      "flagAdoption": "9 July 1998",
+      "coatOfArms": "/flags/coat_of_arms/aa_en_hunze.png",
+      "colors": {
+        "primary": [
+          { "value": "#fbdc0c", "name": "School bus yellow" },
+          { "value": "#96b91a", "name": "Apple green" }
+        ],
+        "secondary": []
+      },
+      "link": "aa-en-hunze",
+      "category": "municipality"
     }
   ]
 }

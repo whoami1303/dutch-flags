@@ -1,18 +1,23 @@
 import { DataPoint } from "@/utils/data-structure";
 import Image from "next/image";
 import Link from "next/link";
-export default function Municipality({ title, flagPath }: DataPoint) {
+export default function Municipality({ title, flagPath, link }: DataPoint) {
   return (
     <div className="flex">
       <div className="text-center">
-        <Image
-          className="border-2 border-black"
-          src={flagPath}
-          alt="placeholder"
-          width={300}
-          height={100}
-        />
-        <Link href="/details">{title}</Link>
+        <Link
+          href={`/flag/${link}`}
+          className="font-bold hover:text-dutch-orange transition-colors duration-300"
+        >
+          <Image
+            className="h-44 w-64 border border-silver"
+            src={flagPath}
+            width={300}
+            alt="placeholder"
+            height={150}
+          />
+          {title}
+        </Link>
       </div>
     </div>
   );

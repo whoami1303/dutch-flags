@@ -1,7 +1,14 @@
-import { DataPoint } from "@/utils/data-structure";
+import { DataPoint, HeaderProps } from "@/utils/data-structure";
 import Image from "next/image";
+import FlagMetadata from "./flag-metadata";
 
-export default function Header({ title, subtitle, flagPath }: DataPoint) {
+export default function Header({
+  title,
+  subtitle,
+  flagPath,
+  link,
+  metadata,
+}: HeaderProps | DataPoint) {
   return (
     <>
       <div className="flex w-full justify-between">
@@ -9,13 +16,18 @@ export default function Header({ title, subtitle, flagPath }: DataPoint) {
           {title}
           {subtitle && (
             <span className="absolute text-sm bottom-0 -right-12 italic">
-              {subtitle}
+              <span className="text-dutch-orange">
+                {subtitle.split(" ")[0]}{" "}
+              </span>
+              &nbsp;
+              {subtitle.split(" ")[1]}
             </span>
           )}
         </h1>
 
-        <div>
+        <div className="my-auto">
           <Image
+            className="w-32 rounded-md"
             src={flagPath}
             alt="Netherlands flag"
             width={200}
@@ -24,6 +36,7 @@ export default function Header({ title, subtitle, flagPath }: DataPoint) {
         </div>
       </div>
       <div className="after:content border-4 border-black"></div>
+      <FlagMetadata {...metadata} />
     </>
   );
 }

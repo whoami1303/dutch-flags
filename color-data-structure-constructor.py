@@ -3,11 +3,11 @@ def give_colors(input: str):
     return input.split("#")
 
 results = []
-value = give_colors("#2c2c7crgb(44,44,124)#302c7crgb(48,44,124)")
+value = give_colors("#fbdc0crgb(251,220,12)#96b91argb(150,185,26)")
 value.pop(0)
 
 for object in value:
-    results.append({"value": "#" + object[:6], "rgb": object[6:], "primary": 'true'}  )
+    results.append({"value": "#" + object[:6], "rgb": object[6:]}  )
 
 
 for result in results: 

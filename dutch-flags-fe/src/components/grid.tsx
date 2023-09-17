@@ -1,17 +1,19 @@
-import { WebsiteProps } from "@/utils/data-structure";
+import { Flags } from "@/utils/data-structure";
 import Municipality from "./municipality";
-
-export default function Grid({ municipalities }: WebsiteProps) {
+import Filter from "./filter";
+export default function Grid({ flags }: Flags) {
   return (
-    <div className="grid xl:grid-cols-4 lg:grid-cols-3 sm:grid-cols-1 md:grid-cols-2   my-8 ">
-      {municipalities.map((municipality) => (
-        <div key={municipality.title}>
-          <Municipality
-            title={municipality.title}
-            flagPath={municipality.flagPath}
-          />
-        </div>
-      ))}
-    </div>
+    <>
+      <div className="flex justify-end ">
+        <Filter />
+      </div>
+      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 gap-x-4 my-8 ">
+        {flags.map((flag) => (
+          <div key={flag.title}>
+            <Municipality {...flag} />
+          </div>
+        ))}
+      </div>
+    </>
   );
 }

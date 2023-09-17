@@ -14,8 +14,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="container mx-auto my-5 bg-neutral-300">
-        <div className="bg-white min-h-screen px-8 py-8">
+      <body className="container mx-auto px-28 my-5 bg-silver">
+        <div className="bg-beige min-h-screen px-20 py-8">
           <Navigation />
           {children}
           <Footer />

@@ -1,26 +1,39 @@
-export interface WebsiteProps {
-  header: DataPoint;
-  country: DataPoint[];
-  provinces: DataPoint[];
-  historical_provinces: DataPoint[];
-  public_bodies: DataPoint[];
-  municipalities: DataPoint[];
-  region_with_no_administrative_status: DataPoint[];
-  royal: DataPoint[];
-  governmental: DataPoint[];
-  military_and_naval: DataPoint[];
+import { FlagMetadataProps } from "@/components/flag-metadata";
+
+export interface HeaderProps {
+  title: string;
+  subtitle: string;
+  flagPath: string;
+  link: string;
+  metadata: FlagMetadataProps;
+}
+
+export interface Flags {
+  flags: DataPoint[];
 }
 
 export interface DataPoint {
   title: string;
   subtitle?: string;
   flagPath: string;
+  flagDescription: string;
+  flagAdoption?: string;
+  coatOfArms: string;
   historicalFlagPaths?: string[];
-  colors?: Color[];
+  colors: Colors;
+  colorSymbolism?: string[];
+  link: string;
+  category: string;
+  metadata: FlagMetadataProps;
 }
 
+export interface Colors {
+  primary: Color[];
+  secondary: Color[];
+}
 export interface Color {
   value: string;
+  rgb: string;
   name: string;
   primary: boolean;
 }
