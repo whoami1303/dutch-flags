@@ -2,8 +2,13 @@
   "flags": [
     {
       "title": "Netherlands",
+      "favicon": [
+        "/favicon/netherlands/favicon.ico",
+        "/favicon/netherlands/favicon-16x16.png",
+        "/favicon/netherlands/favicon-32x32.png"
+      ],
       "flagPath": "/flags/netherlands.png",
-
+      "introduction": "The Netherlands, often called Holland, is a country in Northwestern Europe. It's known for its flat landscape, canals, windmills, tulip fields, and cycling routes. The capital is Amsterdam. Dutch is the official language, but English is widely spoken. The country has a constitutional monarchy with a parliamentary system. The economy is diverse, with strong international trade. The Dutch are known for their liberal and open-minded approach to life. The country has a rich cultural heritage, including famous painters like Rembrandt and Van Gogh. The Netherlands is famous for the 'Tulip Mania' in the 17th century. It's one of the most bike-friendly countries in the world, with an extensive network of cycling paths.",
       "flagDescription": "A horizontal tricolor of red, white and blue.",
       "flagAdoption": "1813",
       "coatOfArms": "/flags/coat_of_arms/netherlands.png",
@@ -21,10 +26,43 @@
         "The blue band represents vigilance, truth, loyalty, perseverance, and justice."
       ],
       "link": "netherlands",
-      "category": "country"
+      "category": "country",
+      "statistics": {
+        "population": 17821419,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 22,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 4,
+            "minutes": 53,
+            "direction": "E"
+          }
+        },
+        "area": 42531,
+        "density": 532
+      },
+      "metadata": {
+        "leftside": "test",
+        "rigtside": "another test"
+      },
+      "sources": [
+        {
+          "name": "test",
+          "link": true
+        }
+      ]
     },
     {
       "title": "Aa en Hunze",
+      "favicon": [
+        "/favicon/aa_en_hunze/favicon.ico",
+        "/favicon/aa_en_hunze/favicon-16x16.png",
+        "/favicon/aa_en_hunze/favicon-32x32.png"
+      ],
+      "introduction": "Aa en Hunze is a municipality in the northeastern Netherlands. The names 'Aa' (more precisely the 'Drentsche Aa') and 'Hunze' refer to two small rivers through the municipality.",
       "flagPath": "/flags/municipalities/aa_en_hunze.png",
       "flagDescription": "Green, with an all-crossing yellow Andrew's cross, coming from the flag corners; on the hoist side a yellow three-petaled lily crown.",
       "flagAdoption": "9 July 1998",
@@ -37,7 +75,34 @@
         "secondary": []
       },
       "link": "aa-en-hunze",
-      "category": "municipality"
+      "category": "municipality",
+      "statistics": {
+        "population": 25399,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 0,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 46,
+            "direction": "E"
+          }
+        },
+        "area": 278.87,
+        "density": 92
+      },
+      "metadata": {
+        "leftside": "test",
+        "rightside": "another test"
+      },
+      "sources": [
+        {
+          "name": "Aa en Hunze",
+          "link": "https://www.aaenhunze.nl/"
+        }
+      ]
     }
   ]
 }

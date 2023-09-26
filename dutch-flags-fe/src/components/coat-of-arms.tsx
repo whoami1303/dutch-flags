@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function CoatOfArms({ coatOfArms }: DataPoint) {
   return (
-    <div className="container my-10">
+    <div className="container my-36">
       <div className="grid grid-cols-2 ">
         <div>
           <h1 className="text-3xl">Coat of arms</h1>

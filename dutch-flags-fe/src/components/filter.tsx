@@ -3,6 +3,7 @@ import { loadJsonFromDataFile } from "../utils/load-json-from-data-file";
 
 export default function Filter() {
   const data: SiteStructure = loadJsonFromDataFile("site-structure.json");
+
   return (
     <div className="flex justify-end ">
       {data.filter.map((filter: string) => (
