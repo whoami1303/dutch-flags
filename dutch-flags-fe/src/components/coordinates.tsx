@@ -1,10 +1,16 @@
 import { Coordinates } from "@/utils/data-structure";
 import CountUp from "react-countup";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 
 export default function Coordinates({ latitude, longitude }: Coordinates) {
   return (
-    <div>
-      <p className="mb-3 italic">Coordinates</p>
+    <div className="flex justify-center items-center">
+      <FontAwesomeIcon
+        icon={faLocationDot}
+        className="mx-2 align-middle"
+        size="lg"
+      />
       <div className="flex justify-center">
         {latitude.degrees && (
           <CountUp end={latitude.degrees} duration={3} suffix="°" />

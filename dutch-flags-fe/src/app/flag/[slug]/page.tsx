@@ -7,7 +7,11 @@ import FlagDisplay from "@/components/flag-display";
 import Statistics from "@/components/statistics";
 import Introduction from "@/components/introduction";
 import { Metadata, ResolvingMetadata } from "next";
-import Head from "next/head";
+import Sources from "@/components/sources";
+import PersonsOfInterest from "@/components/persons-of-interest";
+import PreviousNextFlags from "@/components/previous-next-flags";
+import Divider from "@/components/divider";
+import HistoricalFlags from "@/components/other-flags";
 
 export async function generateMetadata(
   { params }: { params: { slug: string } },
@@ -37,16 +41,39 @@ export default function Page({ params }: { params: { slug: string } }) {
   const result = data.flags.find((flag: DataPoint) => {
     return flag.link === params.slug;
   });
-
   const flag: DataPoint = result!;
+
   return (
     <>
       <Header {...flag} />
       <Introduction {...flag} />
+      <Divider />
       <FlagDisplay {...flag} />
-      {flag.statistics && <Statistics {...flag.statistics} />}
-      <CoatOfArms {...flag} />
+      <Divider />
       <Colors {...flag} />
+      <Divider />
+      {flag.statistics && (
+        <>
+          <Statistics {...flag.statistics} />
+          <Divider />
+        </>
+      )}
+      <CoatOfArms {...flag} />
+      <Divider />
+      {flag.personsOfInterest && (
+        <>
+          <PersonsOfInterest {...flag} />
+          <Divider />
+        </>
+      )}
+      {flag.otherFlagsPaths && (
+        <>
+          <HistoricalFlags {...flag} />
+          <Divider />
+        </>
+      )}
+      <PreviousNextFlags {...flag} />
+      <Sources {...flag} />
     </>
   );
 }

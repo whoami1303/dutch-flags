@@ -1,6 +1,7 @@
 import { DataPoint, HeaderProps } from "@/utils/data-structure";
 import Image from "next/image";
 import FlagMetadata from "./flag-metadata";
+import Link from "next/link";
 
 export default function Header({
   title,
@@ -25,7 +26,7 @@ export default function Header({
           )}
         </h1>
 
-        <div className="my-auto">
+        <Link className="my-auto" href={`/flag/${link}`}>
           <Image
             className="w-32 rounded-md"
             src={flagPath}
@@ -33,7 +34,7 @@ export default function Header({
             width={200}
             height={200}
           />
-        </div>
+        </Link>
       </div>
       <div className="after:content border-4 border-black"></div>
       <FlagMetadata {...metadata} />

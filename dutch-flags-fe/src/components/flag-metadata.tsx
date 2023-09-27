@@ -10,8 +10,10 @@ export default function FlagMetadata({
   return (
     <div className="my-2 container">
       <div className="grid grid-cols-2 justify-between">
-        <div className="text-start italic">{leftside}</div>
-        <div className="text-end">{rightside}</div>
+        <div className="text-start italic">{leftside ? leftside : ""}</div>
+        <div className="text-end italic">
+          {rightside ? `${rightside}` : "Date of adoption unknown"}
+        </div>
       </div>
     </div>
   );

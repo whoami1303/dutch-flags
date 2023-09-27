@@ -8,12 +8,14 @@ export default function Grid({ flags }: Flags) {
       <div className="flex justify-end ">
         <Filter />
       </div>
-      <div className="grid grid-cols-4 gap-x-4 my-8 ">
-        {flags.map((flag) => (
-          <div key={flag.title}>
-            <Municipality {...flag} />
-          </div>
-        ))}
+      <div className="grid grid-cols-4 gap-x-4 my-8 mb-auto ">
+        {flags.map((flag) =>
+          flag.title !== "Netherlands" ? (
+            <div key={flag.title}>
+              <Municipality {...flag} />
+            </div>
+          ) : null
+        )}
       </div>
     </>
   );

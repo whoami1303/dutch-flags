@@ -3,7 +3,7 @@ import ColorBlock from "./colors-block";
 export default function Colors({ colors }: DataPoint) {
   return (
     <>
-      <div className="container my-10">
+      <div className="container">
         <div className="grid grid-cols-2 ">
           <div>
             <h1 className="text-3xl">Colors</h1>
@@ -11,7 +11,7 @@ export default function Colors({ colors }: DataPoint) {
           <div>
             {colors.primary.length && (
               <div
-                className={`justify-center grid grid-cols-${colors.primary.length} gap-x-4`}
+                className={`grid grid-cols-${colors.primary.length} gap-x-4`}
               >
                 {colors.primary.map((color) => (
                   <ColorBlock key={color.name} {...color} />

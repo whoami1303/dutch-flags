@@ -1,17 +1,11 @@
 {
   "flags": [
     {
-      "title": "Netherlands",
-      "favicon": [
-        "/favicon/netherlands/favicon.ico",
-        "/favicon/netherlands/favicon-16x16.png",
-        "/favicon/netherlands/favicon-32x32.png"
-      ],
-      "flagPath": "/flags/netherlands.png",
-      "introduction": "The Netherlands, often called Holland, is a country in Northwestern Europe. It's known for its flat landscape, canals, windmills, tulip fields, and cycling routes. The capital is Amsterdam. Dutch is the official language, but English is widely spoken. The country has a constitutional monarchy with a parliamentary system. The economy is diverse, with strong international trade. The Dutch are known for their liberal and open-minded approach to life. The country has a rich cultural heritage, including famous painters like Rembrandt and Van Gogh. The Netherlands is famous for the 'Tulip Mania' in the 17th century. It's one of the most bike-friendly countries in the world, with an extensive network of cycling paths.",
-      "flagDescription": "A horizontal tricolor of red, white and blue.",
-      "flagAdoption": "1813",
-      "coatOfArms": "/flags/coat_of_arms/netherlands.png",
+      "category": "country",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/netherlands.png"
+      },
       "colors": {
         "primary": [
           { "value": "#AD1D25", "name": "Bright vermilion" },
@@ -25,8 +19,37 @@
         "The white band symbolizes, peace and honesty.",
         "The blue band represents vigilance, truth, loyalty, perseverance, and justice."
       ],
+      "favicon": [
+        "/favicon/netherlands/favicon.ico",
+        "/favicon/netherlands/favicon-16x16.png",
+        "/favicon/netherlands/favicon-32x32.png"
+      ],
+      "flagAdoption": "1813",
+      "flagDescription": "A horizontal tricolor of red, white and blue.",
+      "flagPath": "/flags/netherlands.png",
+      "introduction": "The Netherlands, often called Holland, is a country in Northwestern Europe. It's known for its flat landscape, canals, windmills, tulip fields, and cycling routes. The capital is Amsterdam. Dutch is the official language, but English is widely spoken. The country has a constitutional monarchy with a parliamentary system. The economy is diverse, with strong international trade. The Dutch are known for their liberal and open-minded approach to life. The country has a rich cultural heritage, including famous painters like Rembrandt and Van Gogh. The Netherlands is famous for the 'Tulip Mania' in the 17th century. It's one of the most bike-friendly countries in the world, with an extensive network of cycling paths.",
       "link": "netherlands",
-      "category": "country",
+      "metadata": {
+        "leftside": "Holland",
+        "rigtside": "Adopted in 1813"
+      },
+      "personsOfInterest": [],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Netherlands",
+          "link": "netherlands"
+        },
+        "next": {
+          "title": "Aa en Hunze",
+          "link": "aa-en-hunze"
+        }
+      },
+      "sources": [
+        {
+          "name": "Wikipedia Aa en Hunze",
+          "link": "https://en.wikipedia.org/wiki/Aa_en_Hunze"
+        }
+      ],
       "statistics": {
         "population": 17821419,
         "coordinates": {
@@ -44,29 +67,14 @@
         "area": 42531,
         "density": 532
       },
-      "metadata": {
-        "leftside": "test",
-        "rigtside": "another test"
-      },
-      "sources": [
-        {
-          "name": "test",
-          "link": true
-        }
-      ]
+      "title": "Netherlands"
     },
     {
-      "title": "Aa en Hunze",
-      "favicon": [
-        "/favicon/aa_en_hunze/favicon.ico",
-        "/favicon/aa_en_hunze/favicon-16x16.png",
-        "/favicon/aa_en_hunze/favicon-32x32.png"
-      ],
-      "introduction": "Aa en Hunze is a municipality in the northeastern Netherlands. The names 'Aa' (more precisely the 'Drentsche Aa') and 'Hunze' refer to two small rivers through the municipality.",
-      "flagPath": "/flags/municipalities/aa_en_hunze.png",
-      "flagDescription": "Green, with an all-crossing yellow Andrew's cross, coming from the flag corners; on the hoist side a yellow three-petaled lily crown.",
-      "flagAdoption": "9 July 1998",
-      "coatOfArms": "/flags/coat_of_arms/aa_en_hunze.png",
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "In sinople a barred twin cross of gold, accompanied in the first quarter by a lily crown of gold lined gules. The shield surmounted by a golden crown of three leaves and two pearls and held by two roebucks of natural color.",
+        "path": "/flags/coat_of_arms/aa_en_hunze.png"
+      },
       "colors": {
         "primary": [
           { "value": "#fbdc0c", "name": "School bus yellow" },
@@ -74,8 +82,71 @@
         ],
         "secondary": []
       },
+      "favicon": [
+        "/favicon/aa_en_hunze/favicon.ico",
+        "/favicon/aa_en_hunze/favicon-16x16.png",
+        "/favicon/aa_en_hunze/favicon-32x32.png"
+      ],
+      "flagAdoption": "9 July 1998",
+      "flagDescription": "Green, with an all-crossing yellow Andrew's cross, coming from the flag corners; on the hoist side a yellow three-petaled lily crown.",
+      "flagPath": "/flags/municipalities/aa_en_hunze.png",
+      "introduction": "Aa en Hunze is a municipality in the northeastern Netherlands. The names 'Aa' (more precisely the 'Drentsche Aa') and 'Hunze' refer to two small rivers through the municipality.",
       "link": "aa-en-hunze",
-      "category": "municipality",
+      "metadata": {
+        "rightside": "July 9th 1998"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Eindhoven Standard",
+          "path": "/flags/municipalities/eindhoven/eindhoven_alternate_1.png"
+        },
+        {
+          "metadata": "Gestel",
+          "path": "/flags/municipalities/eindhoven/gestel.png"
+        },
+        {
+          "metadata": "Stratum",
+          "path": "/flags/municipalities/eindhoven/stratum.png"
+        },
+        {
+          "metadata": "Strijp",
+          "path": "/flags/municipalities/eindhoven/strijp.png"
+        },
+        {
+          "metadata": "Tongelre",
+          "path": "/flags/municipalities/eindhoven/tongelre.png"
+        },
+        {
+          "metadata": "Woensel",
+          "path": "/flags/municipalities/eindhoven/woensel.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Harm Brouwer (born 1957) - Politician",
+        "Wim Cool (born 1943) - Business consultant, mediator and politician",
+        "Jan Dijkema (born 1944) - Politician, sociologist and sports director",
+        "Gerrit Oosting (1941–2012) - Politician"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Netherlands",
+          "link": "netherlands"
+        },
+        "next": {
+          "title": "Netherlands",
+          "link": "netherlands"
+        }
+      },
+      "sources": [
+        {
+          "name": "Aa en Hunze - Municipality Website",
+          "link": "https://www.aaenhunze.nl/"
+        },
+        {
+          "name": "Aa en Hunze - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-ah.html#logo"
+        }
+      ],
       "statistics": {
         "population": 25399,
         "coordinates": {
@@ -93,16 +164,7 @@
         "area": 278.87,
         "density": 92
       },
-      "metadata": {
-        "leftside": "test",
-        "rightside": "another test"
-      },
-      "sources": [
-        {
-          "name": "Aa en Hunze",
-          "link": "https://www.aaenhunze.nl/"
-        }
-      ]
+      "title": "Aa en Hunze"
     }
   ]
 }

@@ -1,46 +1,20 @@
 import { FlagMetadataProps } from "@/components/flag-metadata";
 
-export interface HeaderProps {
-  title: string;
-  subtitle: string;
-  flagPath: string;
-  link: string;
-  metadata: FlagMetadataProps;
+export interface CoatOfArms {
+  description?: string;
+  path: string;
 }
 
-export interface Flags {
-  flags: DataPoint[];
-}
-
-export interface DataPoint {
-  title: string;
-  subtitle?: string;
-  introduction: string;
-  flagPath: string;
-  flagDescription: string;
-  flagAdoption?: string;
-  favicon: string[];
-  coatOfArms: string;
-  historicalFlagPaths?: string[];
-  colors: Colors;
-  colorSymbolism?: string[];
-  link: string;
-  category: string;
-  statistics?: Statistics;
-  metadata: FlagMetadataProps;
-  sources: Source[];
-}
-
-export interface Source {
+export interface Color {
+  value: string;
+  rgb: string;
   name: string;
-  link: boolean;
+  primary: boolean;
 }
 
-export interface Statistics {
-  population: number;
-  coordinates: Coordinates;
-  area: number;
-  density: number;
+export interface Colors {
+  primary: Color[];
+  secondary: Color[];
 }
 
 export interface Coordinates {
@@ -57,13 +31,62 @@ export interface Coordinates {
     direction: string;
   };
 }
-export interface Colors {
-  primary: Color[];
-  secondary: Color[];
+
+export interface DataPoint {
+  category: string;
+  coatOfArms: CoatOfArms;
+  colors: Colors;
+  colorSymbolism?: string[];
+  favicon: string[];
+  flagAdoption?: string;
+  flagDescription: string;
+  flagPath: string;
+  introduction: string;
+  link: string;
+  metadata: FlagMetadataProps;
+  otherFlagsPaths?: OtherFlags[];
+  personsOfInterest?: string[];
+  sequenceFlags: SequenceFlags;
+  sources: Source[];
+  statistics?: Statistics;
+  subtitle?: string;
+  title: string;
 }
-export interface Color {
-  value: string;
-  rgb: string;
+
+export interface Flags {
+  flags: DataPoint[];
+}
+
+export interface HeaderProps {
+  title: string;
+  subtitle: string;
+  flagPath: string;
+  link: string;
+  metadata: FlagMetadataProps;
+}
+
+export interface OtherFlags {
+  metadata: string;
+  path: string;
+}
+export interface SequenceFlags {
+  previous: SequenceFlagsItem;
+  next: SequenceFlagsItem;
+}
+
+export interface SequenceFlagsItem {
+  title: string;
+  link: string;
+}
+
+export interface Source {
   name: string;
-  primary: boolean;
+  link: string;
+}
+
+export interface Statistics {
+  population: number;
+  coordinates: Coordinates;
+  area: number;
+  density: number;
 }

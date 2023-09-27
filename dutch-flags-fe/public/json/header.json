@@ -4,6 +4,7 @@
   "flagPath": "/flags/netherlands.svg",
   "link": "netherlands",
   "metadata": {
-    "leftside": "A design guide for the flags of the Netherlands"
+    "leftside": "A design guide for the flags of the Netherlands",
+    "rightside": "&nbsp;"
   }
 }

@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function FlagDisplay({ flagPath, flagDescription }: DataPoint) {
   return (
-    <div className="container my-10">
+    <div className="container">
       <div className="grid grid-cols-2 ">
         <div>
           <h1 className="text-3xl">Composition</h1>
@@ -11,7 +11,7 @@ export default function FlagDisplay({ flagPath, flagDescription }: DataPoint) {
         </div>
         <div className="flex justify-center p-5  ">
           <Image
-            className="object-cover w-full rounded-md"
+            className="object-cover w-full rounded-md border border-silver"
             src={flagPath}
             width={300}
             alt="placeholder"
@@ -19,7 +19,6 @@ export default function FlagDisplay({ flagPath, flagDescription }: DataPoint) {
           />
         </div>
       </div>
-      <div className="after:content border border-dashed my-20"></div>
     </div>
   );
 }
