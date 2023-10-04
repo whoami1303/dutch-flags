@@ -30,7 +30,7 @@ export default function Header({
           <Image
             className="w-32 rounded-md"
             src={flagPath}
-            alt="Netherlands flag"
+            alt="Header flag"
             width={200}
             height={200}
           />

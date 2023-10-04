@@ -24,7 +24,7 @@
         "/favicon/netherlands/favicon-16x16.png",
         "/favicon/netherlands/favicon-32x32.png"
       ],
-      "flagAdoption": "1813",
+      "flagAdoption": "Adopted 1813",
       "flagDescription": "A horizontal tricolor of red, white and blue.",
       "flagPath": "/flags/netherlands.png",
       "introduction": "The Netherlands, often called Holland, is a country in Northwestern Europe. It's known for its flat landscape, canals, windmills, tulip fields, and cycling routes. The capital is Amsterdam. Dutch is the official language, but English is widely spoken. The country has a constitutional monarchy with a parliamentary system. The economy is diverse, with strong international trade. The Dutch are known for their liberal and open-minded approach to life. The country has a rich cultural heritage, including famous painters like Rembrandt and Van Gogh. The Netherlands is famous for the 'Tulip Mania' in the 17th century. It's one of the most bike-friendly countries in the world, with an extensive network of cycling paths.",
@@ -89,11 +89,11 @@
       ],
       "flagAdoption": "9 July 1998",
       "flagDescription": "Green, with an all-crossing yellow Andrew's cross, coming from the flag corners; on the hoist side a yellow three-petaled lily crown.",
-      "flagPath": "/flags/municipalities/aa_en_hunze.png",
+      "flagPath": "/flags/municipalities/aa_en_hunze/aa_en_hunze.png",
       "introduction": "Aa en Hunze is a municipality in the northeastern Netherlands. The names 'Aa' (more precisely the 'Drentsche Aa') and 'Hunze' refer to two small rivers through the municipality.",
       "link": "aa-en-hunze",
       "metadata": {
-        "rightside": "July 9th 1998"
+        "rightside": "Adopted July 9th 1998"
       },
       "otherFlagsPaths": [
         {
@@ -125,7 +125,12 @@
         "Harm Brouwer (born 1957) - Politician",
         "Wim Cool (born 1943) - Business consultant, mediator and politician",
         "Jan Dijkema (born 1944) - Politician, sociologist and sports director",
-        "Gerrit Oosting (1941–2012) - Politician"
+        "Gerrit Oosting (1941–2012) - Politician",
+        "Berden de Vries (born 1989) - Racing cyclist and former speed skater",
+        "Janneke Ensing (born 1986) - Cyclist",
+        "Arnold van Calker (born 1976) - Bobsledder",
+        "Edwin van Calker (born 1979) - Bobsledder",
+        "Alida van der Anker-Doedens (1922–2014) - Sprint canoeist, competed in two Summer Olympics"
       ],
       "sequenceFlags": {
         "previous": {
@@ -133,8 +138,8 @@
           "link": "netherlands"
         },
         "next": {
-          "title": "Netherlands",
-          "link": "netherlands"
+          "title": "Assen",
+          "link": "assen"
         }
       },
       "sources": [
@@ -145,10 +150,18 @@
         {
           "name": "Aa en Hunze - Flag information",
           "link": "https://www.crwflags.com/fotw/flags/nl-dr-ah.html#logo"
+        },
+        {
+          "name": "Aa en Hunze - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/List_of_municipal_flags_of_the_Netherlands"
+        },
+        {
+          "name": "Aa en Hunze - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1680__aa_en_hunze/"
         }
       ],
       "statistics": {
-        "population": 25399,
+        "population": 25717,
         "coordinates": {
           "latitude": {
             "degrees": 53,
@@ -161,10 +174,681 @@
             "direction": "E"
           }
         },
-        "area": 278.87,
-        "density": 92
+        "area": 276.1,
+        "density": 93.15
       },
       "title": "Aa en Hunze"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The coat of arms is directly borrowed from the seal of the abbey. It is just like the coat of arms of the province of Drenthe - in both cases Mary with child - but Jesus switches to the other knee. The history of the city is connected with the provincial governing board: around 1600, the abbey property was secularised. Marienkamp no longer existed, but the buildings did. Because of the central position of Assen and the fact that the government from what was then called de Landschap Drenthe (the Landscape Drenthe) was searching for a location for the government and civil servants, Assen became the seat for, and thus practically also the capital of Drenthe.",
+        "path": "/flags/coat_of_arms/assen.png"
+      },
+      "colors": {
+        "primary": [
+          { "value": "#1c448c", "name": "Chathams Blue" },
+          { "value": "#ffffff", "name": "White" }
+        ],
+        "secondary": []
+      },
+      "favicon": [
+        "/favicon/assen/favicon.ico",
+        "/favicon/assen/favicon-16x16.png",
+        "/favicon/assen/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted May 25th 1959",
+      "flagDescription": "A bi-color flag with blue in the top and white in the bottom.",
+      "flagPath": "/flags/municipalities/assen/assen.png",
+      "introduction": "Assen is a municipality and a city in the northeastern Netherlands, and is the capital of the province of Drenthe. It received city rights in 1809. Assen is known for TT Circuit Assen, the motorcycle racing circuit, where on the last Sunday in June the Dutch TT is run; and also for the annual Assen Dance Festival.",
+      "link": "assen",
+      "metadata": {
+        "rightside": "Adopted May 25th 1959"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Marktstraat flag",
+          "path": "/flags/municipalities/assen/assen_alternate_1.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Johannes Alberti (1698 in Assen – 1762) a Dutch theologian",
+        "Hendrik Jan Smidt (1831 in Assen – 1917 ) Governor-General of Suriname 1885 to 1888",
+        "Tettje Clay-Jolles (1881 in Assen – 1972) one of the first female Dutch physicists",
+        "Jo van de Kieft (1884 – 1970 in Assen) a Dutch politician and businessman",
+        "Jan Donner (1891 in Assen – 1981) a Dutch politician",
+        "Johannes Linthorst Homan (1903 in Assen – 1986) a Dutch politician and diplomat",
+        "Anne de Vries (1904 in Kloosterveen – 1964) a Dutch teacher and author",
+        "Henk Feldmeijer (1910 in Assen – 1945) a Dutch National Socialist politician",
+        "Jacob Staal (1913 in Assen - 1981) a Dutch commando during World War II",
+        "Wim Franken (1922 in Assen – 2012) a Dutch composer, pianist and carillonneur",
+        "Dick Rienstra (1941 in Assen) a Dutch singer and actor[14]",
+        "Relus ter Beek (1944 in Coevorden – 2008) a Dutch politician",
+        "Erik Ziengs (born 1960 in Hoogersmilde) a Dutch politician and businessman",
+        "John-Paul Langbroek (born 1961 in Assen) an Australian politician",
+        "Juul Kraijer (born 1970 in Assen) a Dutch visual artist who uses drawing and photography",
+        "Johan Bontekoe (1943 in Assen– 2006) a Dutch freestyle swimmer, competed in the 1964 Summer Olympics",
+        "Klenie Bimolt (born 1945 in Assen) a former breaststroke swimmer, silver medallist at the 1964 Summer Olympics",
+        "Egbert Streuer (born 1954 in Assen) a Dutch former professional sidecar driver",
+        "Harry Sinkgraven (born 1966) a Dutch football coach and former footballer with 334 club caps",
+        "Peter Hoekstra (born 1973 in Assen) retired footballer with 273 club caps",
+        "Bas Roorda (born 1973 in Assen) a Dutch football player with 280 club caps",
+        "Timothy Beck (born 1977 in Assen) a Dutch sprinter and bobsledder, competed in the 2004 Summer Olympics and in the 2002 Winter Olympics",
+        "Sergio van Dijk (born 1982 in Assen) a Dutch-Indonesian football player, over 330 club caps",
+        "Marc de Maar (born 1984 in Assen) professional cyclist, Quick-Step",
+        "Boy Westerhof (born 1985 in Assen) a Dutch professional tennis player",
+        "Inge Dekker (born 1985 in Assen) a former butterfly and freestyle swimmer, bronze medallist at the 2004 Summer Olympics",
+        "Brian Kamstra (born 1993 in Assen) a professional cyclist, Team Novo Nordisk",
+        "Maike van der Duin (born 2001 in Assen) a professional cyclist, Le Col–Wahoo"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Aa en Hunze",
+          "link": "aa-en-hunze"
+        },
+        "next": {
+          "title": "Borger-Odoorn",
+          "link": "borger-odoorn"
+        }
+      },
+      "sources": [
+        {
+          "name": "Assen - Municipality website",
+          "link": "https://www.assen.nl/"
+        },
+        {
+          "name": "Assen - Flag information",
+          "link": "https://en.wikipedia.org/wiki/Assen"
+        },
+        {
+          "name": "Assen - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Assen"
+        },
+        {
+          "name": "Assen - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/0106__assen/"
+        }
+      ],
+      "statistics": {
+        "population": 69450,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 0,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 34,
+            "direction": "E"
+          }
+        },
+        "area": 81.89,
+        "density": 848.1
+      },
+      "title": "Assen"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The municipality is on the 'Hondsrug' range of hills. The territory of both former municipalities (Borger and Odoorn) was formerlt divided equally in sand and marsh. Both had also a small western part of marshes. This has been visualized in a shield-division of gold-black. These colors can also be found on the old municipal arms, so that it connects old and new. The 'boezelschup' (peat-digger) refers to the marshes, the 'hunebed' (passage-grave) to the sand. The 'boezelschup' has a specific form, only used in southeast Drenthe, and was used to divide mud evenly. The golden color refers to it being a wooden spade. In the municipality is the 'Nationaal Hunebeddeninformatiecentrum', as well as 18 'hunebedden', spread over both former municipalities, more than in any other municipality. Both municipalities were mainly agricultural. So horses were chosen as supporters, which also refers to present day use of horses in sports (the Hippic center in Exloo, riding-school in Bronneger).",
+        "path": "/flags/coat_of_arms/borger_odoorn.png"
+      },
+      "colors": {
+        "primary": [
+          { "value": "#fcfc04", "name": "Yellow" },
+          { "value": "#040404", "name": "Black" }
+        ],
+        "secondary": []
+      },
+      "favicon": [
+        "/favicon/borger_odoorn/favicon.ico",
+        "/favicon/borger_odoorn/favicon-16x16.png",
+        "/favicon/borger_odoorn/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted February 28th 2002",
+      "flagDescription": "Three height bands in the ratio 11:3:11 of yellow, black and yellow, with a black shield of 3/5 flag height over all on the cross of the flag, charged with a yellow twill that coincides with the black band at the shield edge; the twill above accompanied by a horizontal wooden shovel with raised edges and below by a hunebed, consisting of two boulders and a capstone, all yellow. The colors yellow and black represent the sand and peat part of the municipality. This is again symbolized by the hunebed and the shovel in the coat of arms. The yellow twill represents the Hondsrug that runs through the municipality.",
+      "flagPath": "/flags/municipalities/borger_odoorn/borger_odoorn.png",
+      "introduction": "Borger-Odoorn is a municipality in the northeastern Netherlands in the province of Drenthe.",
+      "link": "borger-odoorn",
+      "metadata": {
+        "rightside": "Adopted February 28th 2002"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Borger flag (former municipality)",
+          "path": "/flags/municipalities/borger_odoorn/borger_odoorn_alternate_1.png"
+        },
+        {
+          "metadata": "Odoorn flag (former municipality)",
+          "path": "/flags/municipalities/borger_odoorn/borger_odoorn_alternate_2.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Albert Meems (1888 in Nieuw-Buinen – after 1957) a Dutch spy for Germany in the Second World War",
+        "Pieter van Boven (1898 – 1952) a Dutch fencer, competed at the 1924 Summer Olympics",
+        "Egbert Schuurman (born 1937 in Borger) a Dutch engineer, philosopher and politician",
+        "Henk Nienhuis (1941 in Nieuw-Buinen – 2017) a Dutch footballer and manager.",
+        "Henk G. Sol (born 1951 in Borger) a Dutch organizational theorist and academic",
+        "Carsten de Dreu (born 1966 in Borger) Professor of Psychology at Leiden University and Behavioral Economics at the University of Amsterdam"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Assen",
+          "link": "assen"
+        },
+        "next": {
+          "title": "Coevorden",
+          "link": "coevorden"
+        }
+      },
+      "sources": [
+        {
+          "name": "Borger-Odoorn - Municipality website",
+          "link": "https://www.borger-odoorn.nl/"
+        },
+        {
+          "name": "Borger-Odoorn - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-bo.html"
+        },
+        {
+          "name": "Borger-Odoorn - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Borger-Odoorn"
+        },
+        {
+          "name": "Borger-Odoorn - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1681__borger_odoorn/"
+        }
+      ],
+      "statistics": {
+        "population": 25908,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 53,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 52,
+            "direction": "E"
+          }
+        },
+        "area": 274.5,
+        "density": 94.37
+      },
+      "title": "Borger-Odoorn"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The scroll reads (in Latin): Multis Periculis Supersum - Despite the many dangers which threatened me I still exist.",
+        "path": "/flags/coat_of_arms/coevorden.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#0062bc",
+            "name": "Green blue"
+          },
+          {
+            "value": "#d60000",
+            "name": "Engineering orange"
+          },
+          {
+            "value": "#ebc304",
+            "name": "Jonquil"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/coevorden/favicon.ico",
+        "/favicon/coevorden/favicon-16x16.png",
+        "/favicon/coevorden/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted July 13th 1999",
+      "flagDescription": "Aspect ratio 2:3; Five height ranges in a ratio of 5:1:8:1:5; over everything in the middle a blue cross with arms with a width of 1/4 of the flag height, on which a yellow open castle with a height of 1/3 of the flag height.",
+      "flagPath": "/flags/municipalities/coevorden/coevorden.png",
+      "introduction": "Coevorden is a city and municipality in the province of Drenthe, Netherlands. During the 1998 municipal reorganisation in the province, Coevorden merged with Dalen, Sleen, Oosterhesselen and Zweeloo, retaining its name",
+      "link": "coevorden",
+      "metadata": {
+        "rightside": "Adopted July 13th 1999"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Dalen flag (former municipality)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_1.png"
+        },
+        {
+          "metadata": "Dalen village flag",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_2.png"
+        },
+        {
+          "metadata": "Oosterhesselen flag (former municipality)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_3.png"
+        },
+        {
+          "metadata": "Schoonoord flag (The Giant Village)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_4.png"
+        },
+        {
+          "metadata": "Sleen flag (former municipality)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_5.png"
+        },
+        {
+          "metadata": "Zweeloo  flag (former municipality)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_6.png"
+        },
+        {
+          "metadata": "Dalen flag (former municipality)",
+          "path": "/flags/municipalities/coevorden/coevorden_alternate_7.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Johannes Benedictus van Heutsz (1851-1924). Gouverneur-generaal (1904-09), a Dutch military officer and governor general of the Dutch East Indies in 1904",
+        "Albert Bouwers (1893 in Dalen – 1972) a Dutch optical engineer, worked with X-Rays",
+        "Relus ter Beek (1944 in Coevorden – 2008) a Dutch politician",
+        "Tim de Zeeuw (born 1956 in Sleen) a Dutch astronomer specializing in the galaxies",
+        "Thijs Berman (born 1957 in Coevorden) a former journalist, a Dutch politician and a Member of the European Parliament",
+        "Herman von Hebel (born 1961 in Coevorden) was a Registrar of the International Criminal Court",
+        "Maxim Februari (born 1963 in Coevorden) a Dutch writer, philosopher and columnist",
+        "Joël Voordewind (born 1965 in Sleen) a Dutch politician",
+        "Don Pepijn Schipper (born 1980 in Coevorden) stage name Don Diablo is a Dutch DJ, record producer, musician and songwriter of electronic dance music",
+        "Mark-Jan Fledderus (born 1982 in Coevorden) a Dutch retired footballer with 321 caps"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Borger-Odoorn",
+          "link": "borger-odoorn"
+        },
+        "next": {
+          "title": "De Wolden",
+          "link": "de-wolden"
+        }
+      },
+      "sources": [
+        {
+          "name": "Coevorden - Municipality website",
+          "link": "https://www.coevorden.nl/"
+        },
+        {
+          "name": "Coevorden - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-cv.html"
+        },
+        {
+          "name": "Coevorden - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Coevorden"
+        },
+        {
+          "name": "Coevorden - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1681__borger_odoorn/"
+        }
+      ],
+      "statistics": {
+        "population": 35706,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 40,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 45,
+            "direction": "E"
+          }
+        },
+        "area": 296.1,
+        "density": 120.6
+      },
+      "title": "Coevorden"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The curvy white line is the meandering Reest river.",
+        "path": "/flags/coat_of_arms/de_wolden.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#ffcc00",
+            "name": "Jonquil"
+          },
+          {
+            "value": "#009a3d",
+            "name": "Pigment green"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/de_wolden/favicon.ico",
+        "/favicon/de_wolden/favicon-16x16.png",
+        "/favicon/de_wolden/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted May 31st 2001",
+      "flagDescription": "The four trees in the flag have been changed to green stripes.",
+      "flagPath": "/flags/municipalities/de_wolden/de_wolden.png",
+      "introduction": "De Wolden is a municipality in the northeastern Netherlands in the province of Drenthe.",
+      "link": "de-wolden",
+      "metadata": {
+        "rightside": "Adopted May 31st 2001"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "De Wijk flag (former municipality)",
+          "path": "/flags/municipalities/de_wolden/de_wolden_alternate_1.png"
+        },
+        {
+          "metadata": "De Wijk old unofficial flag",
+          "path": "/flags/municipalities/de_wolden/de_wolden_alternate_2.png"
+        },
+        {
+          "metadata": "Ruinen flag (former municipality)",
+          "path": "/flags/municipalities/de_wolden/de_wolden_alternate_3.png"
+        },
+        {
+          "metadata": "Ruinerwold flag (former municipality)",
+          "path": "/flags/municipalities/de_wolden/de_wolden_alternate_4.png"
+        },
+        {
+          "metadata": "Zuidwolde flag (former municipality)",
+          "path": "/flags/municipalities/de_wolden/de_wolden_alternate_5.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Jan Evertsen Cloppenburgh (1571 in Ruinen – 1648) a Dutch publisher during the Dutch Golden Age",
+        "Steven van Voorhees (1600 in Hees – 1684) an early Dutch settler in America",
+        "Henrik Ruse, Baron of Rysensteen (1624 in Ruinen - 1679) a Dutch officer and fortification engineer",
+        "Hendrikje Doelen (1784 in Oosterwijk – 1847) a Dutch serial killer",
+        "Jan Arend Godert de Vos van Steenwijk II (1818 in De Wijk – 1905) a Dutch politician and president of the senate 1874/1880",
+        "Jan Hendrik de Boer (1899 in Ruinen – 1971) a Dutch physicist and chemist",
+        "Jan Vayne (1966 in Zuidwolde) a Dutch pianist",
+        "Korie Homan (born 1986 in de Wijk) a Dutch former wheelchair tennis player and gold medallist at the 2008 Paralympics"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Coevorden",
+          "link": "coevorden"
+        },
+        "next": {
+          "title": "Emmen",
+          "link": "emmen"
+        }
+      },
+      "sources": [
+        {
+          "name": "De Wolden - Municipality website",
+          "link": "https://www.dewolden.nl/"
+        },
+        {
+          "name": "De Wolden - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-dw.html"
+        },
+        {
+          "name": "De Wolden - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/De_Wolden"
+        },
+        {
+          "name": "De Wolden - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1681__borger_odoorn/"
+        }
+      ],
+      "statistics": {
+        "population": 24595,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 40,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 26,
+            "direction": "E"
+          }
+        },
+        "area": 224.6,
+        "density": 109.5
+      },
+      "title": "De Wolden"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "Per saltire in argent and vert; the top quarter charged with a turning plough ('keerploeg'), the bottom quarter with a peat-cutter, both in sable.",
+        "path": "/flags/coat_of_arms/emmen.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          },
+          {
+            "value": "#008100",
+            "name": "Office green"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#aab8bf",
+            "name": "French gray"
+          },
+          {
+            "value": "#f7d804",
+            "name": "School bus yellow"
+          },
+          {
+            "value": "#ae0100",
+            "name": "Turkey red"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/emmen/favicon.ico",
+        "/favicon/emmen/favicon-16x16.png",
+        "/favicon/emmen/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adoption date unknown",
+      "flagDescription": "A white flag with the coat of arms of the municipality on it. The coat of arms is placed on the breeching side (mast side) of the flag. Above and below the coat of arms is placed a black band with a height of one fifth of the height of the flag. There are ten offensive (touching) green triangles on this lane. These triangles go the full length of the flag and point inward. The length of the coat of arms has a ratio of 3:2 to the height of the flag.",
+      "flagPath": "/flags/municipalities/emmen/emmen.png",
+      "introduction": "Emmen is a municipality and town of the province of Drenthe in the northeastern Netherlands.",
+      "link": "emmen",
+      "metadata": {
+        "rightside": "Date of adoption unknown"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Schoonebeek  flag (former municipality)",
+          "path": "/flags/municipalities/emmen/emmen_alternate_1.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Jaap Doek (born 1942), jurist specializing in family and juvenile law; chairperson of the UN Committee on the Rights of the Child 2001 to 2007",
+        "Hanja Maij-Weggen (born 1943), retired politician",
+        "Ben Feringa (born 1951), synthetic organic chemist specializing in molecular nanotechnology and homogeneous catalysis",
+        "Jans Aasman (born 1958), psychologist and Cognitive Science expert",
+        "Maruschka Detmers (born 1962), actress",
+        "Frank Westerman (born 1964), writer and former journalist",
+        "Anne Vanschothorst (born 1974), harpist and composer",
+        "Dries van der Lof (1919–1990), racing driver",
+        "Jan de Jonge (born 1963), retired football striker, 410 caps",
+        "Erik Regtop (born 1968), retired footballer, 387 caps",
+        "Gerald Sibon (born 1974), retired footballer, 437 caps"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "De Wolden",
+          "link": "de-wolden"
+        },
+        "next": {
+          "title": "Hoogeveen",
+          "link": "hoogeveen"
+        }
+      },
+      "sources": [
+        {
+          "name": "Emmen - Municipality website",
+          "link": "http://gemeente.emmen.nl/english"
+        },
+        {
+          "name": "Emmen - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-em.html#em_"
+        },
+        {
+          "name": "Emmen - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Emmen,_Netherlands"
+        },
+        {
+          "name": "Emmen - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1681__borger_odoorn/"
+        }
+      ],
+      "statistics": {
+        "population": 108765,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 47,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 54,
+            "direction": "E"
+          }
+        },
+        "area": 335.2,
+        "density": 324.5
+      },
+      "title": "Emmen"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The Hoogeveen Coat of Arms is a pile of peat covered in straw and on both sides there are two beehives and an axe. The beehives date from the time when the inhabitants of Hoogeveen used to dig up empty peat fields to grow 'boekweit'. Boekweit contains alot of honey. Large numbers of Hoogeveeners became beekeepers. There were periods when the beekeepers in Hoogeveen produced more than 10,000 kilos of honey per year.",
+        "path": "/flags/coat_of_arms/hoogeveen.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#27287d",
+            "name": "Resolution blue"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ],
+        "secondary": []
+      },
+      "favicon": [
+        "/favicon/hoogeveen/favicon.ico",
+        "/favicon/hoogeveen/favicon-16x16.png",
+        "/favicon/hoogeveen/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted April 17th 1958",
+      "flagDescription": "A white flag with the coat of arms of the municipality on it. The coat of arms is placed on the breeching side (mast side) of the flag. Above and below the coat of arms is placed a black band with a height of one fifth of the height of the flag. There are ten offensive (touching) green triangles on this lane. These triangles go the full length of the flag and point inward. The length of the coat of arms has a ratio of 3:2 to the height of the flag.",
+      "flagPath": "/flags/municipalities/hoogeveen/hoogeveen.png",
+      "introduction": "Hoogeveen is a municipality and a town in the Dutch province of Drenthe.",
+      "link": "hoogeveen",
+      "metadata": {
+        "rightside": "Adopted April 17th 1958"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Elim village flag",
+          "path": "/flags/municipalities/hoogeveen/hoogeveen_alternate_1.png"
+        },
+        {
+          "metadata": "Noordscheschut village flag",
+          "path": "/flags/municipalities/hoogeveen/hoogeveen_alternate_2.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Leopold Karel, Count of Limburg Stirum (1758 in Hoogeveen - 1840) a politician, helped take power in 1813 to re-establish the monarchy",
+        "Herman Bavinck (1854 in Hoogeveen – 1921) a Dutch Reformed theologian and churchman",
+        "Hendrikje van Andel-Schipper (1890 – 2005 in Hoogeveen) the oldest person ever from the Netherlands",
+        "Jan Bols (born 1944 in Hoogeveen) a former Dutch long track speed skater, participated in the 1968 and 1972 Summer Olympics",
+        "Geert Booij (born 1947 in Hoogeveen) a Dutch linguist and academic, created construction morphology",
+        "Jetta Klijnsma (born 1957 in Hoogeveen) Dutch politician",
+        "Senff (born 1971 in Hoogeveen) a Dutch/Canadian musician and actor[6]",
+        "Anne van Amstel (born 1974 in Hoogeveen) Dutch writer, psychologist and poet",
+        "Lea Bouwmeester (born 1979 in Hoogeveen) a Dutch politician",
+        "Jill de Jong (born 1982 in Hoogeveen) a Dutch model and actress[7]",
+        "Piet Kleine (born 1951 in Hollandscheveld) a former speed skater, gold medallist at the 1976 Winter Olympics and silver medallist at the 1980 Winter Olympics",
+        "Theo ten Caat (born 1964 in Hollandscheveld) a former Dutch professional footballer with 412 club caps",
+        "Erik Dekker (born 1970) a retired Dutch professional road racing cyclist, medallist at the 1992 Summer Olympics",
+        "Erik Bakker (born 1990 in Hoogeveen) a Dutch professional footballer with 320 club caps",
+        "Vivianne Miedema (born 1996 in Hoogeveen) a Dutch professional footballer who is the Netherlands all-time top scorer, across both the women's and men's teams. She is also the all-time top scorer in the English FA Women's Super League."
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Emmen",
+          "link": "emmen"
+        },
+        "next": {
+          "title": "Midden-Drenthe",
+          "link": "midden-drenthe"
+        }
+      },
+      "sources": [
+        {
+          "name": "Hoogeveen - Municipality website",
+          "link": "https://www.hoogeveen.nl/"
+        },
+        {
+          "name": "Hoogeveen - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-hv.html"
+        },
+        {
+          "name": "Hoogeveen - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Hoogeveen"
+        },
+        {
+          "name": "Hoogeveen - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/0118__hoogeveen/"
+        }
+      ],
+      "statistics": {
+        "population": 56441,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 44,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 29,
+            "direction": "E"
+          }
+        },
+        "area": 127.5,
+        "density": 442.5
+      },
+      "title": "Hoogeven"
     }
   ]
 }
