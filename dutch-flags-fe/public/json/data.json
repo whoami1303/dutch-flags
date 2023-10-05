@@ -849,6 +849,447 @@
         "density": 442.5
       },
       "title": "Hoogeven"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The coat of arms was granted by Royal Resolution on 6 May 2002 to the municipality of Midden-Drenthe. It is being used on official occasions. Vert. four fleur-de-lys or crosswise; in the canton an eagle regardant rising armed or, statant with the left leg on the central mound of a three-mounded peatmountain naturel. The shield surmonté with a crown or with three leaves and two pearls, and supported by two horses noir. In the new Coat of Arms elements from the arms of all three former municipalities have been used. The color green from the Beilen Coat of Arms, to the green environment and agriculture. The (original) Lordship-arms of Hoogersmilde refers to Smilde and the peat-digging. The horses as supporters are from the arms of Westerbork, with its agriculture and recreation.",
+        "path": "/flags/coat_of_arms/midden_drenthe.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#00ad87",
+            "name": "Jungle green"
+          },
+          {
+            "value": "#f3e304",
+            "name": "Aureolin"
+          }
+        ],
+        "secondary": []
+      },
+      "favicon": [
+        "/favicon/midden_drenthe/favicon.ico",
+        "/favicon/midden_drenthe/favicon-16x16.png",
+        "/favicon/midden_drenthe/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted June 29th 2002",
+      "flagDescription": "The flag is green with four yellow lilies in the crosswise pattern.",
+      "flagPath": "/flags/municipalities/midden_drenthe/midden_drenthe.png",
+      "introduction": "Midden-Drenthe is a municipality in the northeastern Netherlands. The municipality was created in 1998, in a merger of the former municipalities of Beilen, Smilde, and Westerbork. Between 1998 and 2000, the name of the municipality was Middenveld.",
+      "link": "midden_drenthe",
+      "metadata": {
+        "rightside": "Adopted June 29th 2002"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Beilen flag (former municipality)",
+          "path": "/flags/municipalities/midden_drenthe/midden_drenthe_alternate_1.png"
+        },
+        {
+          "metadata": "Smiled flag (former municipality)",
+          "path": "/flags/municipalities/midden_drenthe/midden_drenthe_alternate_2.png"
+        },
+        {
+          "metadata": "Westerbork flag (former municipality)",
+          "path": "/flags/municipalities/midden_drenthe/midden_drenthe_alternate_3.png"
+        },
+        {
+          "metadata": "Witteveen village flag",
+          "path": "/flags/municipalities/midden_drenthe/midden_drenthe_alternate_4.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Carry van Bruggen (1881 in Smilde - 1932) a Dutch writer",
+        "Jacob Israël de Haan (1881 in Smilde – 1924 in Jerusalem) a Dutch-Jewish literary writer, jurist and journalist, killed by Haganah",
+        "Jan Hartman (1887 in Beilen – 1969) a Dutch fascist and collaborator during WWII",
+        "Hendrikje van Andel-Schipper (1890 in Smilde – 2005 in Hoogeveen) the oldest person ever from the Netherlands",
+        "Hans Heyting (1918 near Beilen – 1992) a Dutch poet, playwright, radio personality, children's book writer and painter",
+        "Henk Koning (1933 in Beilen – 2016) a Dutch politician",
+        "Martin van Hees (born 1964 in Beilen) a Dutch philosopher and academic",
+        "Eef van Breen (born 1978 in Westerbork) a Dutch jazz trumpeter, singer, arranger and composer",
+        "Jan Lomulder (born 1967 in Beilen) a Dutch former kickboxer",
+        "Adelinde Cornelissen (born 1979 in Beilen) a Dutch dressage rider",
+        "Jasper Iwema (born 1989 in Hooghalen) a Dutch motorcycle rider",
+        "Laura Dijkema (born 1990 in Beilen) a Dutch volleyball player"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Hoogeveen",
+          "link": "hoogeveen"
+        },
+        "next": {
+          "title": "Meppel",
+          "link": "meppel"
+        }
+      },
+      "sources": [
+        {
+          "name": "Midden-Drenthe - Municipality website",
+          "link": "https://www.middendrenthe.nl/"
+        },
+        {
+          "name": "Midden-Drenthe - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-md.html"
+        },
+        {
+          "name": "Midden-Drenthe - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Midden-Drenthe"
+        },
+        {
+          "name": "Midden-Drenthe - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1731__midden_drenthe/"
+        }
+      ],
+      "statistics": {
+        "population": 33987,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 41,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 11,
+            "direction": "E"
+          }
+        },
+        "area": 340.5,
+        "density": 99.81
+      },
+      "title": "Midden-Drenthe"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/meppel.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#009761",
+            "name": "Shamrock green"
+          },
+          {
+            "value": "#cd092b",
+            "name": "Fire engine red"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/meppel/favicon.ico",
+        "/favicon/meppel/favicon-16x16.png",
+        "/favicon/meppel/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted July 13th 1999",
+      "flagDescription": "A white-green field consisting of two lanes, horizontally divided in half by half. In the (upper) white band a green cloverleaf, accompanied at the bottom on both sides by a black lying peat, on the understanding that the cloverleaf with peat is placed on the white band in such a way that the distance from the top edge of the flag to the top edge of the cloverleaf is equal to the distance between the bottom of the peats and the bottom of the white strip. Also bordered by a red hem with a width of 3/20 of the height of the flag, which hem is loaded with ten white medallions placed at equal distances, four on the top and bottom edge and one on each of the side edges.",
+      "flagPath": "/flags/municipalities/meppel/meppel.png",
+      "introduction": "Meppel is a city and municipality in the Northeastern Netherlands. It constitutes the southwestern part of the province of Drenthe. Meppel is the smallest municipality in Drenthe, with a total area of about 57 km2 (22 sq mi). People born in Meppel are occasionally referred to as Meppeler Muggen in Dutch; this translates as 'mosquitoes from Meppel'. The nickname comes from a traditional folk tale. The people of Meppel thought the church tower was on fire, but after closer inspection, they realised it was only a swarm of mosquitoes.",
+      "link": "meppel",
+      "metadata": {
+        "rightside": "Adopted July 13th 1999"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Meppel old flag",
+          "path": "/flags/municipalities/meppel/meppel_alternate_1.png"
+        },
+        {
+          "metadata": "Meppel old flag",
+          "path": "/flags/municipalities/meppel/meppel_alternate_2.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Jan Jansen Bleecker (1641—1732) a merchant and political figure, Mayor of Albany, New York",
+        "Arent Magnin (1825–1888) a Dutch politician in the administration on the Dutch Gold Coast",
+        "Petrus Johannes Waardenburg (1886 in Nijeveen – 1979) a Dutch ophthalmologist and geneticist; Waardenburg syndrome is named after him",
+        "Ben Nijboer (1915–1999) a Dutch physicist and academic in optics and solid-state physics",
+        "Louise Fresco (born 1952) a Dutch scientist and writer on globally sustainable food production",
+        "Catrien Santing (born 1958) a Dutch medievalist",
+        "Erik Kwakkel (born 1970) a Dutch scholar who specialises in medieval manuscripts, paleography and codicology",
+        "Albert van der Haar (born 1975) is a Dutch former footballer with almost 500 club caps",
+        "Petrus Kiers (1807–1875) a Dutch painter, graphic artist and photographer",
+        "Sir Joseph Joel Duveen (1843–1908) an art dealer and benefactor of art galleries[8]",
+        "Henry J. Duveen (1854–1919) an art dealer",
+        "Eduard Frankfort (1864–1920) a Dutch Jewish painter",
+        "Jan Mankes (1889–1920) a Dutch painter, sometimes categorized as a symbolic realist",
+        "Jelle Taeke de Boer (1908–1970) a Dutch art collector",
+        "Roelof Frankot (1911–1984) a Dutch painter, a strong relation with the CoBrA movement",
+        "Emmanuel Ohene Boafo (1993) a Dutch-Ghanaian actor, and winner of the Louis d'Or 2021"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Midden-Drenthe",
+          "link": "midden-drenthe"
+        },
+        "next": {
+          "title": "Noordenveld",
+          "link": "noordenveld"
+        }
+      },
+      "sources": [
+        {
+          "name": "Meppel - Municipality website",
+          "link": "https://www.meppel.nl/"
+        },
+        {
+          "name": "Meppel - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-mp.html"
+        },
+        {
+          "name": "Meppel - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Meppel"
+        },
+        {
+          "name": "Meppel - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1731__midden_drenthe/"
+        }
+      ],
+      "statistics": {
+        "population": 35473,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 42,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 11,
+            "direction": "E"
+          }
+        },
+        "area": 55.53,
+        "density": 638.8
+      },
+      "title": "Meppel"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/noordenveld.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#ffff00",
+            "name": "Yellow"
+          },
+          {
+            "value": "#009900",
+            "name": "Forest green"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/noordenveld/favicon.ico",
+        "/favicon/noordenveld/favicon-16x16.png",
+        "/favicon/noordenveld/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted October 19th 2000",
+      "flagDescription": "Height : length = 2 : 3; two lengthways in the ratio 2 : 21; the first stripe: seven equally high strips of black and white; the second lane: two equally high lanes of green and yellow, with a cloverleaf of 7/10 flag height from one to the other in the middle of the lanes.",
+      "flagPath": "/flags/municipalities/noordenveld/noordenveld.png",
+      "introduction": "Noordenveld is a municipality in the northeastern part of the Netherlands.",
+      "link": "noordenveld",
+      "metadata": {
+        "rightside": "Adopted October 19th 2000"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Hindericus Scheepstra (1859 in Roden – 1913) a Dutch writer, wrote children's book series Ot en Sien (1902).",
+        "Jan Britstra (1905 in Norg – 1987) a Dutch hurdler, competed in the 110 metres hurdles at the 1928 Summer Olympics",
+        "J. P. Kuiper (1922 in Norg – 1985) a professor of social medicine, promoted the idea of unconditional basic income",
+        "Harm Kuipers (born 1947 in Vries) academic, former speed skater and racing cyclist"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Meppel",
+          "link": "meppel"
+        },
+        "next": {
+          "title": "Tynaarlo",
+          "link": "tynaarlo"
+        }
+      },
+      "sources": [
+        {
+          "name": "Noordenveld - Municipality website",
+          "link": "https://www.noordenveld.nl/"
+        },
+        {
+          "name": "Noordenveld - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-mp.html"
+        },
+        {
+          "name": "Noordenveld - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Noordenveld"
+        },
+        {
+          "name": "Noordenveld - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1731__midden_drenthe/"
+        }
+      ],
+      "statistics": {
+        "population": 31597,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 8,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 26,
+            "direction": "E"
+          }
+        },
+        "area": 199.4,
+        "density": 158.5
+      },
+      "title": "Noordenveld"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/tynaarlo.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#d60000",
+            "name": "Engineering orange"
+          },
+          {
+            "value": "#efc600",
+            "name": "Jonquil"
+          },
+          {
+            "value": "#009400",
+            "name": "Forest green"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/tynaarlo/favicon.ico",
+        "/favicon/tynaarlo/favicon-16x16.png",
+        "/favicon/tynaarlo/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted September 21st 1999",
+      "flagDescription": "A red trouser T-crotch with arms of 1/3 height; with a white flower of the Swedish dogwood in the middle on the side of the trousers; above green and below yellow.",
+      "flagPath": "/flags/municipalities/tynaarlo/tynaarlo.png",
+      "introduction": "Tynaarlo is a village and municipality in the Northeastern Netherlands. Although it is located in the province of Drenthe, many of its communities serve as suburbs of the neighbouring city of Groningen, capital of the eponymous province.",
+      "link": "tynaarlo",
+      "metadata": {
+        "rightside": "Adopted September 21st 1999"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Zuidlaren (former municipality)",
+          "path": "/flags/municipalities/tynaarlo/tynaarlo_alternate_1.png"
+        },
+        {
+          "metadata": "Eelde (former municipality)",
+          "path": "/flags/municipalities/tynaarlo/tynaarlo_alternate_2.png"
+        },
+        {
+          "metadata": "De Groeve village",
+          "path": "/flags/municipalities/tynaarlo/tynaarlo_alternate_3.png"
+        },
+        {
+          "metadata": "Vries (former municipality)",
+          "path": "/flags/municipalities/tynaarlo/tynaarlo_alternate_4.png"
+        },
+        {
+          "metadata": "Yde-de Punt village",
+          "path": "/flags/municipalities/tynaarlo/tynaarlo_alternate_5.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Menso Alting (1541 in Eelde – 1612), a Dutch Reformed preacher and reformer",
+        "Lodewijk van Heiden (1772 in Zuidlaren – 1850), a Dutch admiral",
+        "Jaap Helder (1907 in Paterswolde – 1998), a Dutch sailor who participated in the 1960 Summer Olympics",
+        "Roelof Koops (1909 in Zuidlaren – 2008), a Dutch speed skater who competed in the 1936 Winter Olympics",
+        "Paul Matthijs (born 1976 in Paterswolde), a Dutch footballer with over 300 club caps",
+        "Jos Hooiveld (born 1983 in Zeijen), a Dutch footballer with over 300 club caps",
+        "Willemijn Bos (born 1988 in Eelde), a Dutch field hockey defender, team silver medallist at the 2016 Summer Olympics"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Noordenveld",
+          "link": "noordenveld"
+        },
+        "next": {
+          "title": "Westerveld",
+          "link": "westerveld"
+        }
+      },
+      "sources": [
+        {
+          "name": "Tynaarlo - Municipality website",
+          "link": "https://www.tynaarlo.nl/"
+        },
+        {
+          "name": "Tynaarlo - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-ty.html"
+        },
+        {
+          "name": "Tynaarlo - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Tynaarlo"
+        },
+        {
+          "name": "Tynaarlo - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/drenthe/1730__tynaarlo/"
+        }
+      ],
+      "statistics": {
+        "population": 34624,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 5,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 35,
+            "direction": "E"
+          }
+        },
+        "area": 143,
+        "density": 242.1
+      },
+      "title": "Tynaarlo"
     }
   ]
 }
