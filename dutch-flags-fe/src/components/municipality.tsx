@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 export default function Municipality({ title, flagPath, link }: DataPoint) {
   return (
-    <div className="flex">
+    <div className="flex my-6">
       <div className="text-center">
         <Link
           href={`/flag/${link}`}

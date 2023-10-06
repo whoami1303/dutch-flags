@@ -1290,6 +1290,421 @@
         "density": 242.1
       },
       "title": "Tynaarlo"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/westerveld.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#0645b0",
+            "name": "Cobalt blue"
+          },
+          {
+            "value": "#018b2d",
+            "name": "Forest green"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#000000",
+            "name": "Black"
+          },
+          {
+            "value": "#fcde02",
+            "name": "School bus yellow"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/westerveld/favicon.ico",
+        "/favicon/westerveld/favicon-16x16.png",
+        "/favicon/westerveld/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted May 28th 2019",
+      "flagDescription": "The flag consists of five horizontal bands in the colors green, yellow, black, yellow and blue. These are derived from the colors of the municipal coat of arms.",
+      "flagPath": "/flags/municipalities/westerveld/westerveld.png",
+      "introduction": "Westerveld is a municipality in the northeastern Netherlands. The municipality Westerveld was established in 1998 out of the municipalities of Diever, Dwingeloo, Havelte, and Vledder. Westerveld is crossed by a channel, the Drentsche Hoofdvaart. There are also two National Parks situated in the municipality, the Drents-Friese Wold and Dwingelerveld.",
+      "link": "westerveld",
+      "metadata": {
+        "rightside": "Adopted May 28th 2019"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Sicco Mansholt (1908 in Ulrum – 1995) politician, 4th President of the European Commission 1972-1973",
+        "John Hugenholtz (1914 in Vledder – 1995) designer of race tracks and cars",
+        "Jan Pol (born 1942 in Wateren) veterinarian, & TV Personality",
+        "Jan Mulder (born 1943 in Diever) politician and Member of the European Parliament",
+        "Klaske Hiemstra (born 1954 in Vledder) a West Frisian-language writer",
+        "Maarten Treurniet (born 1959) film director, brought up in Dwingeloo",
+        "Merlijn Twaalfhoven (born 1976 in Wapserveen) Dutch composer",
+        "Gerrit Postma (1894 in Vledderveen – 1969) discus thrower, competed at the 1928 Summer Olympics",
+        "Tollien Schuurman (1913 in Zorgvlied – 1994) sprint runner, competed at the 1932 Summer Olympics",
+        "Riëtte Fledderus (born 1977) retired volleyball player, competed at the 1996 Summer Olympics"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Tynaarlo",
+          "link": "tynaarlo"
+        },
+        "next": {
+          "title": "Almere",
+          "link": "almere"
+        }
+      },
+      "sources": [
+        {
+          "name": "Westerveld - Municipality website",
+          "link": "https://www.gemeentewesterveld.nl/"
+        },
+        {
+          "name": "Westerveld - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-dr-wv.html"
+        },
+        {
+          "name": "Westerveld - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Westerveld"
+        },
+        {
+          "name": "Westerveld - City population",
+          "link": "https://www.citypopulation.de/en/search/?q=Westerveld"
+        }
+      ],
+      "statistics": {
+        "population": 19857,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 52,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 6,
+            "minutes": 19,
+            "direction": "E"
+          }
+        },
+        "area": 278.4,
+        "density": 71.34
+      },
+      "title": "Westerveld"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/almere.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#f42a2c",
+            "name": "Red"
+          },
+          {
+            "value": "#fcca24",
+            "name": "Jonquil"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#004b96",
+            "name": "Polynesian blue"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          },
+
+          {
+            "value": "#000000",
+            "name": "Black"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/almere/favicon.ico",
+        "/favicon/almere/favicon-16x16.png",
+        "/favicon/almere/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted 1982",
+      "flagDescription": "A white-blue breech and a red-yellow flight, with in the upper neck on the white a black cog with a blue sail, on which a white lily and coming from four waves, crossbeamed of four pieces, white and blue, the whole figure equal to 3/10 of the flag height.",
+      "flagPath": "/flags/municipalities/almere/almere.png",
+      "introduction": "Almere is a planned city and municipality in the province of Flevoland, Netherlands across the IJmeer from Amsterdam. Bordering Lelystad and Zeewolde, the municipality of Almere comprises six official areas that are the districts of Almere Stad (which is further split up into Almere Stad Oost, Almere Stad West and Almere Centrum), Almere Buiten and Almere Pampus (which is currently being designed), and the boroughs of Almere Haven, Almere Hout and Almere Poort. Four of them feature official district or borough offices. Furthermore, it also comprises the unofficial historic district and neighborhood Oostvaardersdiep. Almere is part of the Amsterdam Metropolitan Area (MRA). Almere is the newest city in the Netherlands: the land on which the city sits, the Southern Flevoland polder, was reclaimed from the IJsselmeer from 1959 to 1968. The first house was finished in 1976, and Almere became a municipality in 1984. It has the largest population of the municipalities in Flevoland with 214,715 citizens in 2021 and the 8th largest in the Netherlands. In October 2007, the city council of Almere made agreements with the government to expand the city to 350,000 inhabitants by 2030",
+      "link": "almere",
+      "metadata": {
+        "rightside": "Adopted 1982"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Rob Verlinden (born 1950) Dutch gardener, TV presenter on gardening",
+        "Annemarie Jorritsma (born 1950) politician and former mayor of Almere",
+        "Bart van Leeuwen (1950 – 2017) Dutch photographer, author and radio DJ",
+        "Jörgen Raymann (born 1966) cabaretier, stand-up comedian, actor, presenter and RTV host",
+        "Chris Jansen (born 1966) politician",
+        "Raymzter (born 1979) rapper",
+        "Angerfist (Danny Masseling, born 1981) producer and DJ",
+        "Yfke Sturm (born 1981) international model[27]",
+        "Ali B (born 1981) rapper, host/presenter, music label owner",
+        "Alvaro (born 1987) Producer, DJ",
+        "Pieter Elbers (born 1970) CEO KLM",
+        "Frank Rijkaard (born 1962) football player and coach",
+        "Remy Bonjasky (born 1976) kickboxer",
+        "Maartje Scheepstra (born 1980) Dutch field hockey player, silver medallist at the 2004 Summer Olympics",
+        "Marco Piqué (born 1980) Dutch-Surinamese welterweight kickboxer",
+        "Hedwiges Maduro (born 1985) footballer with over 250 club caps",
+        "Danny Holla (born 1987) footballer with over 300 club caps",
+        "Michaëlla Krajicek (born 1989) Dutch tennis player",
+        "Desiree van Lunteren (born 1992) Dutch footballer",
+        "Niki Wories (born 1996) Dutch figure skater",
+        "Sergiño Dest (born 2000) Dutch/American footballer"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Westerveld",
+          "link": "westerveld"
+        },
+        "next": {
+          "title": "Dronten",
+          "link": "dronten"
+        }
+      },
+      "sources": [
+        {
+          "name": "Almere - Municipality website",
+          "link": "https://www.almere.nl/"
+        },
+        {
+          "name": "Almere - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fl-am.html"
+        },
+        {
+          "name": "Almere - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Almere"
+        },
+        {
+          "name": "Almere - City population",
+          "link": "https://www.citypopulation.de/en/search/?q=Westerveld"
+        }
+      ],
+      "statistics": {
+        "population": 222919,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 22,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 13,
+            "direction": "E"
+          }
+        },
+        "area": 129.2,
+        "density": 1726
+      },
+      "title": "Almere"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "Description: wavy per fess; I. azure a fleur-de-lis argent; II. or three plaited rings gules, the central one bigger and lower placed than the others, surmonté a mooring-mast noir with a head argent emerging from the base. The shield surmonté a crown or of three leaves and supported by two horses with lifted tail. All placed on a white base. The design implies a horizontally divided shield, wherein the cutting line is wavy to indicate that the municipality was wrestled out of the water. The top half of the shield is executed in blue and includes the arms of Minister Lely, the visionary man of the Zuiderzeewerken. The arms of the municipalities of Wieringermeer and the Noordoostpolder do contain the arms of Minister Lely as well. The lower half of the shield, executed in gold, has as central element a mooring-mast, in connection to the cultural center 'De Meerpaal' in Dronten, and the connevtion between it and the municipality. Around the mooring-mast is a big red ring, to which two smaller ones have been connected, symbolizing the places Dronten, Biddinghuizen, and Swifterbant. To underline the large area of the municipality supporters have been added. Because the interest in horses in the municipality is great it was found fitting to use two of them as supporters.",
+        "path": "/flags/coat_of_arms/dronten.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#29b232",
+            "name": "Dark pastel green"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ],
+        "secondary": []
+      },
+      "favicon": [
+        "/favicon/dronten/favicon.ico",
+        "/favicon/dronten/favicon-16x16.png",
+        "/favicon/dronten/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted May 27th 1982",
+      "flagDescription": "Green, with a white emblem at the separation of breech and flight and with a height equal to 16/21 of the flag height, according to the vignette of the municipality, being seven stylized mooring posts grouped within a circle.",
+      "flagPath": "/flags/municipalities/dronten/dronten.png",
+      "introduction": "Dronten is a municipality and a town in the central Netherlands, in the province of Flevoland. It had a population of 42,011 in 2021.",
+      "link": "dronten",
+      "metadata": {
+        "rightside": "Adopted May 27th 1982"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Patrick Paauwe (born 1975), Dutch former professional footballer with 451 caps",
+        "Cees Paauwe (born 1977), Dutch former football goalkeeper with over 100 caps",
+        "Bertolf Lentink (born 1980), Dutch singer/songwriter who plays guitar and piano",
+        "Ricardo Talu (born 1993), Dutch-Angolan professional footballer",
+        "Hakim Ziyech (born 1993), Dutch-Moroccan professional footballer, currently playing for Chelsea F.C.",
+        "Beitske Visser (born 1995), Dutch female racing driver"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Almere",
+          "link": "almere"
+        },
+        "next": {
+          "title": "Lelystad",
+          "link": "lelystad"
+        }
+      },
+      "sources": [
+        {
+          "name": "Dronten - Municipality website",
+          "link": "https://www.dronten.nl/"
+        },
+        {
+          "name": "Dronten - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fl-dt.html"
+        },
+        {
+          "name": "Dronten - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Dronten"
+        },
+        {
+          "name": "Dronten - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/flevoland/0303__dronten/"
+        }
+      ],
+      "statistics": {
+        "population": 43580,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 31,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 43,
+            "direction": "E"
+          }
+        },
+        "area": 333.6,
+        "density": 130.6
+      },
+      "title": "Dronten"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/lelystad.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#f5e300",
+            "name": "Prince yellow"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#0036a7",
+            "name": "Egyptian blue"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/lelystad/favicon.ico",
+        "/favicon/lelystad/favicon-16x16.png",
+        "/favicon/lelystad/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted December 10th 1981",
+      "flagDescription": "Prince yellow, on the imaginary division of pants and flight in the center a cobalt blue hexagon in one point, on which the white lily of the municipal coat of arms (filling the hexagon as much as possible) and enclosed by, touching the hexagon from above and below, four cobalt blue, placed clockwise and extended with one leg to the flag side. The hexagon has a center line equal to one third of the flag height; the legs of the corners have a thickness equal to one tenth of the height of the flag.",
+      "flagPath": "/flags/municipalities/lelystad/lelystad.png",
+      "introduction": "Lelystad is a municipality and a city in the centre of the Netherlands, and it is the capital of the province of Flevoland. The city, built on reclaimed land, was founded in 1967 and was named after Cornelis Lely, who engineered the Afsluitdijk, making the reclamation possible. Lelystad is approximately 3 metres (9.8 feet) below sea level.",
+      "link": "lelystad",
+      "metadata": {
+        "rightside": "Adopted December 10th 1981"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Abraham Bueno de Mesquita (1918–2005) comedian and actor[10]",
+        "Nancy van Overveldt (1930-2015), artist",
+        "Hans Gruijters (1931–2005), politician and journalist",
+        "Hubert Fermina (1948-2022), nurse and politician",
+        "Michiel van Hulten (born 1969), former politician and MEP (1999–2004)",
+        "Edsilia Rombley (born 1978), singer",
+        "Rianne ten Haken (born 1986), a Dutch model",
+        "Co Stompé (born 1962), retired professional darts player",
+        "Aron Winter (born 1967), retired footballer and football manager",
+        "Ivan Sokolov (born 1968), Bosnian chess grand-master",
+        "Chiel Warners (born 1978), former decathlete",
+        "Charles Zwolsman Jr. (born 1979), racing car driver",
+        "Karin Ruckstuhl (born 1980), former heptathlete",
+        "Guido van der Valk (born 1980), professional golfer",
+        "Ruben Schaken (born 1982), football player",
+        "Niels de Ruiter (born 1983), former Dutch darts player, current director of the Dutch Darts Federation",
+        "Thijs van Valkengoed (born 1983), breaststroke swimmer, competed at the 2004 and the 2008 Summer Olympics",
+        "Boy Waterman (born 1984), football goalkeeper",
+        "Daan Brandenburg (born 1987), chess grandmaster",
+        "Nathaniël Will (born 1989), footballer",
+        "Alex Vlaar (born 1996), a Bulgarian badminton player",
+        "Devyne Rensch (born 2003), football player for AFC Ajax and the Netherlands national football team"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Dronten",
+          "link": "dronten"
+        },
+        "next": {
+          "title": "Noordoostpolder",
+          "link": "noordoostpolder"
+        }
+      },
+      "sources": [
+        {
+          "name": "Lelystad - Municipality website",
+          "link": "https://www.lelystad.nl/Inwoner"
+        },
+        {
+          "name": "Lelystad - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fl-ls.html"
+        },
+        {
+          "name": "Lelystad - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Lelystad"
+        },
+        {
+          "name": "Lelystad - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/flevoland/0995__lelystad/"
+        }
+      ],
+      "statistics": {
+        "population": 83055,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 30,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 29,
+            "direction": "E"
+          }
+        },
+        "area": 230.3,
+        "density": 360.6
+      },
+      "title": "Lelystad"
     }
   ]
 }

@@ -66,7 +66,7 @@ export default function Page({ params }: { params: { slug: string } }) {
           <Divider />
         </>
       )}
-      {flag.otherFlagsPaths && (
+      {flag.otherFlagsPaths && flag.otherFlagsPaths.length > 0 && (
         <>
           <HistoricalFlags {...flag} />
           <Divider />
