@@ -1705,6 +1705,202 @@
         "density": 360.6
       },
       "title": "Lelystad"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "Quartered: I. azure a fleur-de-lis argent; II. or a three pinnacled castle noir, joined argent, and with two windows; III. or five right bend gules; IV. azure a penny argent, stamped with a double-lined cross pommelly noir, with in the four corners three disks noir, placed in a triangle. The shield is surmontée with a crown of three leaves and two pearls.",
+        "path": "/flags/coat_of_arms/noordoostpolder.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#1b638d",
+            "name": "Lapis Lazuli"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#d50000",
+            "name": "Engineering orange"
+          },
+          {
+            "value": "#000000",
+            "name": "Black"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/noordoostpolder/favicon.ico",
+        "/favicon/noordoostpolder/favicon-16x16.png",
+        "/favicon/noordoostpolder/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted August 28th 1983",
+      "flagDescription": "A flag whose length is 3 : 2 in proportion to its height, quartered in white and blue, except that the vertical bisecting line is placed at one third of its length, measured from the breech side; over all a quartered cross from one to the other, in the corner of the corner on the corner of the corner, accompanied by a red castle with three battlements, black jointed and with a black trap door, and in the lower corner on the same side of a white lily.",
+      "flagPath": "/flags/municipalities/noordoostpolder/noordoostpolder.png",
+      "introduction": "Noordoostpolder is a polder and municipality in the Flevoland province in the central Netherlands. Formerly, it was also called Urker Land. Emmeloord is the administrative center, located in the heart of the Noordoostpolder.",
+      "link": "noordoostpolder",
+      "metadata": {
+        "rightside": "Adopted August 28th 1983"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "David T. Runia (born 1951 in Noordoostpolder) a Dutch-Australian classical scholar and educational administrator",
+        "Aucke van der Werff (born 1953 in Schettens) politician, current Mayor of Noordoostpolder",
+        "Rien van der Velde (born 1957 in Nagele) a Dutch politician",
+        "Stef Blok (born 1964 in Emmeloord) accountant and politician, Minister of Foreign Affairs",
+        "Marriët Schuurman (born 1969 in Creil) the current Dutch Human Rights' Ambassador",
+        "Ernst Meisner (born 1982 in Noordoostpolder) a Dutch dancer and choreographer",
+        "Annamarie Thomas (born 1971 in Emmeloord) a Dutch former speed skater",
+        "Rob Wielaert (born 1978 in Emmeloord) a Dutch footballer",
+        "Diederik Boer (born 1980 in Emmeloord) a Dutch football goalkeeper.",
+        "Orlando Wirth (born 1981 in Emmeloord) a Dutch footballer",
+        "Tjeerd Korf (born 1983 in Emmeloord) a Dutch former professional footballer",
+        "Corinne Nugter (born 1992 in Emmeloord) a Dutch athlete specializing in the discus throw",
+        "Femke Beuling (born 1999 in Emmeloord) a Dutch speed skater"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Lelystad",
+          "link": "lelystad"
+        },
+        "next": {
+          "title": "Urk",
+          "link": "urk"
+        }
+      },
+      "sources": [
+        {
+          "name": "Noordoostpolder - Municipality website",
+          "link": "https://www.noordoostpolder.nl/"
+        },
+        {
+          "name": "Noordoostpolder - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fl-np.html"
+        },
+        {
+          "name": "Noordoostpolder - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Noordoostpolder"
+        },
+        {
+          "name": "Noordoostpolder - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/flevoland/0995__lelystad/"
+        }
+      ],
+      "statistics": {
+        "population": 49738,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 43,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 45,
+            "direction": "E"
+          }
+        },
+        "area": 458.2,
+        "density": 108.6
+      },
+      "title": "Noordoostpolder"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/urk.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#353e82",
+            "name": "Marian blue"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#a9212a",
+            "name": "Auburn"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/urk/favicon.ico",
+        "/favicon/urk/favicon-16x16.png",
+        "/favicon/urk/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted April 9th 1965",
+      "flagDescription": "Blue with a white haddock, along the top of the flag a narrow hem divided into two horizontal bands of red and white and along the bottom of the flag a narrow hem divided into two horizontal bands of red and white, the hems with a height of each 1/6 of the total flag height.",
+      "flagPath": "/flags/municipalities/noordoostpolder/noordoostpolder.png",
+      "introduction": "Urk is a municipality and a town in the Flevoland province in the central Netherlands. Urk is first mentioned in historical records dating to the 10th century, when it was still an island in the Zuiderzee, an inland sea that would become part of the IJsselmeer in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to Urk ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding Urk to the less saline IJsselmeer. Later in the 20th century, seabed areas surrounding Urk were reclaimed from the sea to become the Noordoostpolder. The mainstay of the town's formal economy has always been fishing, and the products of the sea coming in through Urk harbor continue to be exported widely, although today Urk's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has traditionally been very important to Urk's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.",
+      "link": "noordoostpolder",
+      "metadata": {
+        "rightside": "Adopted April 9th 1965"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "A.C. Baantjer (1923 in Urk – 2010) a Dutch author of detective fiction and police officer",
+        "Geert Nentjes, (born 1998), professional darts player, lives in Urk",
+        "Jan Ras (born 1999 in Urk) a Dutch footballer who plays for SC Heerenveen",
+        "Dick Schutte (born 1947 in Wilsum) a former Dutch politician, Mayor of Urk from 1999 to 2005",
+        "Adri van Heteren (born 1951) a Dutch Christian minister in Urk"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Noordoostpolder",
+          "link": "noordoostpolder"
+        },
+        "next": {
+          "title": "Zeewolde",
+          "link": "zeewolde"
+        }
+      },
+      "sources": [
+        {
+          "name": "Urk - Municipality website",
+          "link": "https://www.urk.nl/"
+        },
+        {
+          "name": "Urk - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fl-uk.html#uk"
+        },
+        {
+          "name": "Urk - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Urk"
+        },
+        {
+          "name": "Urk - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/flevoland/0184__urk/"
+        }
+      ],
+      "statistics": {
+        "population": 21858,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 40,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 36,
+            "direction": "E"
+          }
+        },
+        "area": 13.15,
+        "density": 1662
+      },
+      "title": "Urk"
     }
   ]
 }
