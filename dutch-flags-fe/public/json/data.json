@@ -2286,6 +2286,510 @@
         "density": 226.7
       },
       "title": "Dantumadiel"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "The coat of arms is divided, the first part is gold with a red jumping (running) hare on it. The second part is in royal colors : blue with a golden scene on it, and shows an royal orb. The shield features an old French marquis crown .",
+        "path": "/flags/coat_of_arms/de_fryske_marren.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#ffffff",
+            "name": "White"
+          },
+          {
+            "value": "#2f4694",
+            "name": "Marian blue"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#f4e118",
+            "name": "Aureolin"
+          },
+          {
+            "value": "#d00018",
+            "name": "Fire engine red"
+          },
+          {
+            "value": "#000000",
+            "name": "Black"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/de_fryske_marren/favicon.ico",
+        "/favicon/de_fryske_marren/favicon-16x16.png",
+        "/favicon/de_fryske_marren/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted December 17th 2014",
+      "flagDescription": "Three horizontal bands, white, yellow and azure, the heights of which are in proportion as 2 : 1 : 2. In the white band a leaping hare of throat, jumping towards the hoist side, the center of which is one third from the hoist side in the white band placed.",
+      "flagPath": "/flags/municipalities/de_fryske_marren/de_fryske_marren.png",
+      "introduction": "De Fryske Marren is a municipality of Friesland in the northern Netherlands. It was established 1 January 2014 and consists of the former municipalities of Gaasterlân-Sleat, Lemsterland, Skarsterlân and parts of Boarnsterhim, all four of which were dissolved on the same day.",
+      "link": "de-fryske-marren",
+      "metadata": {
+        "rightside": "Adopted December 17th 2014"
+      },
+      "otherFlagsPaths": [],
+      "personsOfInterest": [
+        "Jancko Douwama (1492 in Oldeboorn - 1533) a Frisian nobleman, fought to free Friesland from foreign rule",
+        "Martinus Hamconius (c.1550 in Follega – 1620) a Frisian writer, poet and historian",
+        "The three Brothers Halbertsma (c.1780 in Grou – c.1860) developed the written literature in the Western Frisian language",
+        "Herman van Ham (1931 in Nijehaske – 2012) a Dutch head chef",
+        "Pieter Verhoeff (1938 in Lemmer – 2019) a Dutch film director [15]",
+        "Marjan Jonkman (born 1994 in Sint Nicolaasga) a Dutch fashion model",
+        "Johannes Acronius Frisius (1520 in Akkrum – 1564) a Dutch doctor, mathematician who wrote Latin poetry and humanist tracts",
+        "Henricus Aeneae (1743 in Oudemirdum – 1810) a Dutch scientist",
+        "Hendrik van Rijgersma (born 1835 in Lemmer - 1877) naturalist, physician, amateur botanist, malacologist and ichthyologist",
+        "Martijn Theodoor Houtsma (1851 in Irnsum – 1943) an orientalist, expert on the Seljuq dynasty",
+        "Fedde Schurer (1898 in Drachten – 1968) a Dutch schoolteacher, journalist, West Frisian language activist and politician",
+        "Heije Schaper (1906 in Joure – 1996) a highly decorated Dutch naval and air force officer",
+        "Jan Pen (1921 in Lemmer – 2010) a Dutch economist, professor and columnist",
+        "Frans Haarsma (1921 in Balk - 2009) a Roman Catholic priest of the Archdiocese of Utrecht",
+        "Ahmed Dede (born 1960 in Balk) an Islamic sheikh and follower of the Sufi order of Islam",
+        "Auke Zijlstra (born 1964 in Joure) a Dutch politician and member of the European Parliament",
+        "Roelof Klein (1877 in Lemmer – 1960) Dutch rower, bronze medallist at the 1900 Summer Olympics",
+        "Jetze Doorman (1881 in Balk – 1931) a fencer and pentathlete competing at the 1912 Summer Olympics",
+        "Atje Keulen-Deelstra (1938 in Grou – 2013) speed skater, silver and bronze medallist at the 1972 Winter Olympics",
+        "Sjoukje Dijkstra (born 1942 in Akkrum) former competitive figure skater, the 1964 Olympic champion in ladies' singles, the 1960 Olympic silver medalist",
+        "Tiemen Groen (born 1946 in Follega) retired Dutch cyclist, competed in the 1964 Summer Olympics",
+        "Rintje Ritsma (born 1970 in Lemmer) former Dutch long track speed skater, participated in five Winter Olympics, winning two silver and four bronze medals",
+        "Ids Postma (born 1973 in Dearsum) former speed skater, gold medalist at the 1998 Winter Olympics",
+        "Jorrit Bergsma (born 1986 in Oldeboorn) speed skater and marathon skater, gold medallist at the 2014 Winter Olympics",
+        "Epke Zonderland (born 1986 in Lemmer) gymnast and 2012 Olympics gold medalist on the high bar",
+        "Marit Bouwmeester (born 1988 in Warten) sailor, gold medallist in the 2016 Summer Olympics and silver medallist at the 2012 Summer Olympics",
+        "Sjinkie Knegt (born 1989 in Bantega) Dutch short track speed skater, bronze medallist in the 2014 Winter Olympics and silver medallist in the 2018 Winter Olympics"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Dantumadeel",
+          "link": "dantumadeel"
+        },
+        "next": {
+          "title": "Harlingen",
+          "link": "harlingen"
+        }
+      },
+      "sources": [
+        {
+          "name": "De Fryske Marren - Municipality website",
+          "link": "https://www.defryskemarren.nl/"
+        },
+        {
+          "name": "De Fryske Marren - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/De_Fryske_Marren"
+        },
+        {
+          "name": "De Fryske Marren - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/friesland/1940__de_fryske_marren/"
+        }
+      ],
+      "statistics": {
+        "population": 52009,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 58,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 47,
+            "direction": "E"
+          }
+        },
+        "area": 351.3,
+        "density": 148.1
+      },
+      "title": "De Fryske Marren"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/harlingen.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#fccc00",
+            "name": "Jonquil"
+          },
+          {
+            "value": "#0063be",
+            "name": "Blue"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#cc112f",
+            "name": "Fire engine red"
+          },
+          {
+            "value": "#ffffff",
+            "name": "White"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/harlingen/favicon.ico",
+        "/favicon/harlingen/favicon-16x16.png",
+        "/favicon/harlingen/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted March 10th 1857",
+      "flagDescription": "Three bands of blue and yellow, the heights of which are in proportion as 1:6:1, with a blue circle in the middle the width of a blue band, with the pieces of the municipal coat of arms in it.",
+      "flagPath": "/flags/municipalities/harlingen/harlingen.png",
+      "introduction": "Harlingen is a municipality and a city in the northern Netherlands, in the province of Friesland.",
+      "link": "harlingen",
+      "metadata": {
+        "rightside": "Adopted March 10th 1857"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Harlingen old flag",
+          "path": "/flags/municipalities/harlingen/harlingen_alternate_1.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Simon Frisius (c.1570–75 – c.1628/29) a Dutch engraver.",
+        "Maarten Gerritszoon Vries (1589–1647) Dutch cartographer and explorer",
+        "Sebastiaen Jansen Krol (1595–1674) Director of New Netherland 1632/1633",
+        "Jacob Adriaensz Backer (1609–1651) a Dutch Golden Age painter",
+        "Tako Hajo Jelgersma (1702–1795) a Dutch painter",
+        "Jacobus Deketh (1726–1764) a captain in the Frisian Admiralty",
+        "Joannes de Mol (1726–1782) a Dutch minister, Patriot and porcelain manufacturer",
+        "Court Lambertus van Beyma (1753-1820) a public notary and auctioneer, delegate of the States of Friesland",
+        "Nicolaas Baur (1767–1820) was a Dutch marine artist",
+        "Johannes Kayser (1842-1917) a Dutch architect, primarily of churches",
+        "J.J.L. Duyvendak (1889–1954) a Dutch Sinologist and professor of Chinese",
+        "Simon Vestdijk (1898–1971) a Dutch writer, nominated 15 times for the Nobel prize in literature",
+        "Peter J Sterkenburg (1955-2000) a Dutch autodidact painter of maritime scenes",
+        "Jan Ykema (born 1963) a former ice speed skater, 1988 Winter Olympics silver medalist",
+        "Abe de Vries (born 1965) a Frisian poet, essayist, literary critic, journalist, editor, translator and photographer",
+        "Joost Vandebrug (born 1982) a Dutch photographer, video director and documentary film director"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "De Fryske Marren",
+          "link": "de-fryske-marren"
+        },
+        "next": {
+          "title": "Heerenveen",
+          "link": "heerenveen"
+        }
+      },
+      "sources": [
+        {
+          "name": "Harlingen - Municipality website",
+          "link": "https://www.harlingen.nl/"
+        },
+        {
+          "name": "Harlingen - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-harln.html"
+        },
+        {
+          "name": "Harlingen - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Harlingen,_Netherlands"
+        },
+        {
+          "name": "Harlingen - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/friesland/0072__harlingen/"
+        }
+      ],
+      "statistics": {
+        "population": 16212,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 11,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 25,
+            "direction": "E"
+          }
+        },
+        "area": 24.96,
+        "density": 649.5
+      },
+      "title": "Harlingen"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "In the blue left part a broken wheel of silver and a silver sword, representing maintenance of law. In the silver right part is a green planted tree with on both sides a black block, symbolizing the presence of forests and peat-digging.",
+        "path": "/flags/coat_of_arms/heerenveen.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#ffffff",
+            "name": "White"
+          },
+          {
+            "value": "#000000",
+            "name": "Black"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#0039a6",
+            "name": "Egyptian blue"
+          },
+          {
+            "value": "#cc112f",
+            "name": "Fire engine red"
+          },
+          {
+            "value": "#fccc00",
+            "name": "Jonquil"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/heerenveen/favicon.ico",
+        "/favicon/heerenveen/favicon-16x16.png",
+        "/favicon/heerenveen/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted May 27th 1963",
+      "flagDescription": "A flag of three horizontal bands of equal height from top to bottom white, black and white. On the trouser side a standing blue stripe of one third of the width. In the blue band at the top, at a third of the height, is a yellow, red-lined crown. The crown has a smooth headband and five pearl points, on which five white pearls can be seen.",
+      "flagPath": "/flags/municipalities/heerenveen/heerenveen.png",
+      "introduction": "Heerenveen is a town and municipality in the province of Friesland (Fryslân), in the Northern Netherlands.",
+      "link": "heerenveen",
+      "metadata": {
+        "rightside": "Adopted May 27th 1963"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Jubbega village",
+          "path": "/flags/municipalities/heerenveen/heerenveen_alternate_1.png"
+        },
+        {
+          "metadata": "Nieuweschoot village",
+          "path": "/flags/municipalities/heerenveen/heerenveen_alternate_2.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Wilhelm Heinrich, Duke of Saxe-Eisenach (1691 in Oranjewoud – 1741) a Duke of Saxe-Eisenach",
+        "Hendrik Pasma (1813–1890), Mennonite pastor, writer, politician and farmer",
+        "Suzanne Manet (born 'Leenhoff', 1829–1906), pianist and opera singer, wife of Édouard Manet",
+        "Geerhardus Vos (1862–1949), a Dutch-American Calvinist theologian of the Princeton Theology",
+        "Cissy van Marxveldt (1889 in Oranjewoud – 1948) a Dutch writer of children's books",
+        "Albert Gillis von Baumhauer (1891–1939) a Dutch aviation pioneer, designed the first Dutch helicopter",
+        "Eelco van Kleffens (1894–1983) a Dutch politician and diplomat",
+        "Herman Zanstra (1894 in Schoterland – 1972) a Frisian/Dutch astronomer",
+        "Fedde Schurer (1898–1968), journalist, poet and politician and poet in the West Frisian language",
+        "Adrianus van Kleffens (1899–1973) a judge at the European Court of Justice 1952/1958",
+        "Klaas Runia (1926 in Oudeschoot – 2006) a Dutch theologian, churchman and journalist",
+        "Wim Duisenberg (1935–2005), politician and President of the European Central Bank 1998/2003",
+        "T. S. van Albada (born 1936 in Akkrum) a Dutch astronomer and academic",
+        "Gretta Duisenberg (born 1942) a Dutch pro-Palestinian political activist",
+        "Jacob de Haan (born 1959), a Dutch contemporary composer known for wind music",
+        "Tineke Postma (born 1978), a Dutch saxophonist",
+        "Jan Huitema (born 1984), politician and Member of the European Parliament (MEP)",
+        "Abe Lenstra (1920–1985), a Dutch football player with 730 club caps",
+        "Foppe de Haan (born 1943), football coach and politician",
+        "Margriet Zegers (born 1954), a retired Dutch field hockey defender, team gold medallist at the 1984 Summer Olympics",
+        "Franke Sloothaak (born 1958) a German show jumping Olympic champion",
+        "Nico-Jan Hoogma (born 1968) a former football defender with 517 club caps",
+        "Falko Zandstra (born 1971), a former Dutch speed skater, silver medallist at the 1992 Winter Olympics and bronze medallist the 1994 Winter Olympics",
+        "Carien Kleibeuker (born 1978) a Dutch long-distance speed skater, bronze medallist at the 2014 Winter Olympics",
+        "Epke Zonderland (born 1986), a gymnast and gold medallist at the 2012 Summer Olympics",
+        "Sven Kramer (born 1986), long track speed skater, three time Olympic champion in the 5000 meters",
+        "Vladislav Bykanov (born 1989) an Israeli Olympic short track speed skater, lives in Heerenveen",
+        "Sanne Wevers (born 1991), an artistic gymnast, gold medallist at the 2016 Summer Olympics",
+        "Antoinette de Jong (born 1995) a Dutch speed skater, bronze medallist at the 2018 Winter Olympics",
+        "Lisa Top (born 1996), a Dutch artistic gymnast",
+        "Aafke Soet (born 1997), former short track speed skater, now cyclist",
+        "Yasser Seirawan (born 1960), American/Syrian chess grandmaster and champion known for his books and commentary on chess games",
+        "Andries Noppert (born 1994), Dutch National Team Goalkeeper World Cup 2022.",
+        "Anna-Maja Kazarian (born 7 January 2000) is a Dutch chess player who holds the titles of FIDE Master (FM) and Woman International Master."
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Harlingen",
+          "link": "harlingen"
+        },
+        "next": {
+          "title": "Leeuwarden",
+          "link": "leeuwarden"
+        }
+      },
+      "sources": [
+        {
+          "name": "Heerenveen - Municipality website",
+          "link": "https://www.heerenveen.nl/"
+        },
+        {
+          "name": "Heerenveen - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-fr-hv.html"
+        },
+        {
+          "name": "Heerenveen - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Heerenveen"
+        },
+        {
+          "name": "Heerenveen - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/friesland/0074__heerenveen/"
+        }
+      ],
+      "statistics": {
+        "population": 51637,
+        "coordinates": {
+          "latitude": {
+            "degrees": 52,
+            "minutes": 58,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 55,
+            "direction": "E"
+          }
+        },
+        "area": 190.1,
+        "density": 271.6
+      },
+      "title": "Heerenveen"
+    },
+    {
+      "category": "municipality",
+      "coatOfArms": {
+        "description": "",
+        "path": "/flags/coat_of_arms/leeuwarden.png"
+      },
+      "colors": {
+        "primary": [
+          {
+            "value": "#0645b0",
+            "name": "Cobalt blue"
+          },
+          {
+            "value": "#fcde00",
+            "name": "School bus yellow"
+          }
+        ],
+        "secondary": [
+          {
+            "value": "#ffffff",
+            "name": "White"
+          },
+          {
+            "value": "#db0b14",
+            "name": "Rojo"
+          }
+        ]
+      },
+      "favicon": [
+        "/favicon/leeuwarden/favicon.ico",
+        "/favicon/leeuwarden/favicon-16x16.png",
+        "/favicon/leeuwarden/favicon-32x32.png"
+      ],
+      "flagAdoption": "Adopted March 29th 2019",
+      "flagDescription": "Blue with a yellow lion rampant in the middle, with two stripes of equal length in the colors red and white along the trousers.",
+      "flagPath": "/flags/municipalities/leeuwarden/leeuwarden.png",
+      "introduction": "Leeuwarden is a city and municipality in Friesland, Netherlands.  It is the provincial capital and seat of the Provincial Council of Friesland.",
+      "link": "leeuwarden",
+      "metadata": {
+        "rightside": "Adopted March 29th 2019"
+      },
+      "otherFlagsPaths": [
+        {
+          "metadata": "Leeuwarden old flag",
+          "path": "/flags/municipalities/leeuwarden/leeuwarden_alternate_1.png"
+        },
+        {
+          "metadata": "Leeuwarden historical flag c. 1680",
+          "path": "/flags/municipalities/leeuwarden/leeuwarden_alternate_2.png"
+        },
+        {
+          "metadata": "Leeuwarden historical flag before 1947",
+          "path": "/flags/municipalities/leeuwarden/leeuwarden_alternate_3.png"
+        },
+        {
+          "metadata": "Leeuwarden historical flag c. 1750",
+          "path": "/flags/municipalities/leeuwarden/leeuwarden_alternate_4.png"
+        }
+      ],
+      "personsOfInterest": [
+        "Lawrence Alma-Tadema (1836–1912), knighted painter",
+        "Eva and Abraham Beem (1932/1934–1944), young Jewish Holocaust victims",
+        "Cornelis Botke (1887–1954), painter and etcher",
+        "Cisca Dresselhuys (born 1943), journalist and magazine editor",
+        "Esmée van Eeghen (1918–1944), resistance fighter in World War II",
+        "Dirk van Erp (1860–1933), artisan and metalsmith",
+        "M. C. Escher (1898–1972), graphic artist",
+        "Richard Hageman (1881–1966), conductor, pianist, composer, and actor",
+        "Willem van Haren (1710–1768), poet",
+        "Havank (1904–1964), writer, journalist, and translator",
+        "Wilhelmina van Idsinga (1788–1819), painter",
+        "Johannes Henricus Gerardus Jansen (1868–1936), archbishop",
+        "Wijerd Jelckama (c. 1490–1523), military commander",
+        "Mata Hari (1876–1917), exotic dancer and courtesan, possible double agent",
+        "Hendrik Niehoff (1495–c. 1561), pipe organ maker",
+        "Piet Paaltjens (1835–1894), minister and romantic author",
+        "Joachim van Plettenberg (1739–1793), colonial governor",
+        "Tjitske Reidinga (born 1972), actress",
+        "Jan Jacob Slauerhoff (1898–1936), poet and novelist",
+        "Abraham Lambertsz van den Tempel (1622-1672), painter",
+        "Pieter Jelles Troelstra (1860–1930), politician",
+        "Cornelis Adriaan Lobry van Troostenburg de Bruyn (1857–1904), chemist",
+        "Saskia van Uylenburg (1612–1642), wife of the painter Rembrandt van Rijn",
+        "Lodewijk Caspar Valckenaer (1715–1785), classical scholar",
+        "Campegius Vitringa (1659-1722), theologian",
+        "Hans Vredeman de Vries (1527–c. 1607), architect, painter, and engineer",
+        "Harm Wiersma (born 1953), draughts player and politician",
+        "William IV, Prince of Orange (1711-1751), stadtholder"
+      ],
+      "sequenceFlags": {
+        "previous": {
+          "title": "Heerenveen",
+          "link": "heerenveen"
+        },
+        "next": {
+          "title": "Noardeast-Fryslân",
+          "link": "noardeast-fryslân"
+        }
+      },
+      "sources": [
+        {
+          "name": "Leeuwarden - Municipality website",
+          "link": "https://www.leeuwarden.nl/"
+        },
+        {
+          "name": "Leeuwarden - Flag information",
+          "link": "https://www.crwflags.com/fotw/flags/nl-leewd.html"
+        },
+        {
+          "name": "Leeuwarden - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Leeuwarden"
+        },
+        {
+          "name": "Leeuwarden - City population",
+          "link": "https://www.citypopulation.de/en/netherlands/admin/friesland/0080__leeuwarden/"
+        }
+      ],
+      "statistics": {
+        "population": 127088,
+        "coordinates": {
+          "latitude": {
+            "degrees": 53,
+            "minutes": 12,
+            "direction": "N"
+          },
+          "longitude": {
+            "degrees": 5,
+            "minutes": 47,
+            "direction": "E"
+          }
+        },
+        "area": 238.4,
+        "density": 533.1
+      },
+      "title": "Leeuwarden"
     }
   ]
 }
